@@ -1,0 +1,15 @@
+<html>
+<head><title>Bus Stops Types and Coordinates</title></head>
+<body>
+<h1>Types and Coordinates of Bus Stops</h1>
+
+    {% for row in rows %}
+    <p>Bus Stops: 
+    <b>{{row["NaptanCode"]}}</b> | 
+    {{row["BusStopType"]}} | 
+    {{row["x"]}} | 
+    {{row['y']}} 
+    </p>
+    {% endfor %}
+
+</body></html>

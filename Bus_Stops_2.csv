@@ -1,0 +1,2243 @@
+﻿NaptanCode,CommonName,Street,LocalityName,BusStopType,x,y
+73727985,Aviva,Pitheavlis,Cherrybank,MKD,309764,722103
+73739795,Aviva,Pitheavlis,Cherrybank,MKD,309762,722119
+73734234,Community Campus,Elm Drive,Blairgowrie,MKD,317634,743915
+73753732,Loch Leven Community Campus,Campus Rd,Kinross,MKD,311746,703513
+73745845,Castle Brae,A85,East Huntingtower,MKD,308199,724912
+73798934,Whitehouse,Castle Brae,East Huntingtower,CUS,308248,724944
+73765465,Burnbank Meadows,Lethangie Road,Kinross,CUS,311724,703457
+73784357,Glenturret Terrace,Glendevon Road,Moncreiffe,MKD,311145,721681
+73787286,Primary School,Gleneagles Road,Moncreiffe,MKD,311206,721671
+73753685,Croft Wynd,Stirling Road,Milnathort,MKD,311925,704716
+73732694,Croft Wynd,Stirling Road,Milnathort,MKD,312013,704704
+73748674,Perth Road,Burleigh Road,Milnathort,MKD,312363,704750
+73748468,War Memorial,South Street,Milnathort,MKD,311955,704541
+73756982,Road End,A90,Inchture,MKD,327968,728935
+73739693,Railway Station,Station Road,Invergowrie,MKD,334878,729858
+73734238,Rookery,Gowans Terrace,Muirton,MKD,311128,725098
+73745843,Rookery,The Rookery,Muirton,MKD,311140,725085
+73762834,Pitkellony Street,Willoughby Street,Muthill,MKD,286902,716671
+73732372,Lintibert Road,Willoughby Street,Muthill,MKD,287008,716663
+73745878,Inchfield Cottages,B898,Inchmagrannachan,MKD,300068,744753
+73745876,Inchfield Cottages,B898,Inchmagrannachan,CUS,300090,744745
+73734243,Balgay Farm Road End,A90,Inchture,MKD,326463,727632
+73742686,Dunsinnan Road,Old Church Road,Wolfhill,MKD,315569,733359
+73762468,Stroma Court,Bute Drive,North Muirton,MKD,310813,725755
+73798932,Stroma Court,Bute Drive,North Muirton,MKD,310791,725751
+73795832,Post Box,U29,Blacklunans,CUS,314911,760464
+73762626,Fish Farm Road End,U246,Balado,CUS,309596,702615
+73793247,Station Court,Station Road,Murthly,MKD,309973,738350
+73739794,Station Court,Station Road,Murthly,MKD,310035,738317
+73736796,Scout Hall,Forfar Road,Meigle,MKD,328900,744666
+73783978,Scout Hall,Forfar Road,Meigle,MKD,328877,744641
+73792868,Beechgrove Terrace,Muirend Road,Burghmuir,MKD,309122,723649
+73794256,Beechgrove Terrace,Muirend Road,Burghmuir,MKD,309091,723637
+73739647,Concert Hall,Mill Street,Perth,CUS,311935,723781
+73748682,Waterworks,C411,Windyedge,CUS,304466,720953
+73757943,Waterworks,C411,Windyedge,CUS,304493,720967
+73725273,Mill Street,Mill Street,Perth,MKD,311568,723729
+73725642,Mill Street,Mill Street,Perth,MKD,311585,723729
+73725643,Mill Street,Mill Street,Perth,MKD,311610,723729
+73725645,Mill Street,Mill Street,Perth,MKD,311643,723729
+73723696,Mill Street,Mill Street,Perth,MKD,311637,723742
+73723694,Mill Street,MILL STREET,Perth,MKD,311616,723742
+73723653,Mill Street,Mill Street,Perth,MKD,311596,723741
+73723734,Royal Infirmary,Western Avenue,Perth,MKD,310259,723753
+73724763,Royal Infirmary,Western Avenue,Perth,MKD,310272,723793
+73723649,South Street,South Street,Perth,MKD,311709,723482
+73723524,South Street,South Street,Perth,MKD,311724,723482
+73723525,South Street,South Street,Perth,MKD,311768,723478
+73723539,South Street,South Street,Perth,MKD,311789,723474
+73723232,Upper Rannoch Roundabout,Rannoch Road,Letham,MKD,308978,724259
+73725326,Upper Rannoch Roundabout,Rannoch Road,Letham,MKD,309011,724267
+73729247,Muir o Lea,Unclassified Rd,Kinkell Bridge,CUS,292927,717786
+73723972,Institute,Tulloch Terrace,Tulloch,MKD,309436,724945
+73724783,Institute,Tulloch Terrace,Tulloch,MKD,309434,724902
+73725684,Bus Depot,Ruthvenfield Road,Inveralmond,HAR,309159,726264
+73724859,Inveralmond Close,Inveralmond Rd,Inveralmond,HAR,309183,726108
+73727968,Branklyn Gardens,Dundee Road,Barnhill,MKD,312502,722796
+73727974,Earn Drive,C410,Balgowan,MKD,299320,722537
+73728354,Earn Drive,C410,Balgowan,MKD,299334,722533
+73728542,Dubheads,C410,Balgowan,CUS,296413,721454
+73728289,Dubheads,C410,Balgowan,CUS,296396,721455
+73728293,Garth Terrace,Garth Terrace,Auchterarder,CUS,295748,713432
+73728634,Mills Of Earn,B8062,Kinkell Bridge,CUS,292304,717044
+73728397,Mills Of Earn,B8062,Kinkell Bridge,CUS,292301,717063
+73728494,Colquhalzie Road End,C457,Tullibardine,CUS,292205,716670
+73728793,Colquhalzie Road End,C457,Tullibardine,CUS,292207,716663
+73728694,Muir o Lea,Unclassified Rd,Kinkell Bridge,CUS,292932,717761
+73725429,Market Square,Market Square,Alyth,MKD,324611,748554
+73725424,Leitfie Terrace,A926,New Alyth,MKD,324396,747330
+73725423,Leitfie Terrace,A926,New Alyth,MKD,324409,747346
+73726582,Glenshee Drive,Ferguson Park Road,Rattray,MKD,318363,745753
+73726459,Wellmeadow,Wellmeadow,Blairgowrie,MKD,318010,745178
+73726462,Wellmeadow,Wellmeadow,Blairgowrie,MKD,318006,745173
+73727357,Blairgowrie High School,Beeches Road,Blairgowrie,HAR,317632,744466
+73727352,Rosemount Gardens,Coupar Angus Road,Rosemount,MKD,318877,743494
+73727349,Rosemount Gardens,Coupar Angus Road,Rosemount,MKD,318854,743510
+73723789,George Square,George Street,Coupar Angus,MKD,322128,739981
+73723456,Post Office,High Street,Burrelton,MKD,320012,737044
+73725349,Post Office,High Street,Burrelton,MKD,319997,737022
+73725346,Village Hall,Mercat Green,Kinrossie,MKD,318825,732332
+73727348,George Square,George Street,Coupar Angus,MKD,322116,739954
+73724275,Village Hall,Mercat Green,Kinrossie,CUS,318832,732355
+73724793,Burnside Road,A94,Balbeggie,MKD,316982,729697
+73723986,Burnside Road,A94,Balbeggie,MKD,316976,729781
+73724268,Mansfield Road,Perth Road,Scone,MKD,313723,726061
+73728472,Drumchastle,B846,Dunalastair,CUS,268278,758739
+73725258,Mansfield Road,Perth Road,Scone,MKD,313775,726118
+73724574,Kinnoull Street,Kinnoull Street,Perth,MKD,311678,723834
+73726482,College,Crieff Road,Hillyland,MKD,310040,724652
+73723675,College,Crieff Road,Hillyland,MKD,309945,724706
+73723863,Kinnoull Street,Kinnoull Street,Perth,MKD,311669,723699
+73724295,Gleneagles Trades Entrance,A824,Auchterarder,MKD,291710,711609
+73725754,Aytoun Hall,High Street,Auchterarder,MKD,294517,712883
+73725756,Co-op,High Street,Auchterarder,MKD,294423,712813
+73727262,Bridgewater Avenue,Abbey Road,Auchterarder,MKD,295361,712880
+73727263,Bridgewater Avenue,Abbey Road,Auchterarder,MKD,295308,712891
+73727267,Easter Coul,B8062,Auchterarder,CUS,296915,713035
+73727268,Easter Coul,B8062,Auchterarder,CUS,296942,713021
+73727269,Thimblerow,Bridge of Earn Road,Dunning,MKD,302017,714393
+73728297,Festival Theatre,Car Park,Pitlochry,MKD,293863,757594
+73723275,Village Hall,B935,Forteviot,MKD,305180,717517
+73723276,Village Hall,B935,Forteviot,MKD,305193,717508
+73723273,Kinnaird Road,B935,Forgandenny,MKD,308767,718063
+73725673,Kinnaird Road,B935,Forgandenny,MKD,308732,718055
+73725659,James Court,Kintillo Road,Kintillo,MKD,313002,717414
+73723269,James Court,Kintillo Road,Kintillo,MKD,313002,717421
+73725787,Dunbarney Primary School,Main Street,Bridge of Earn,MKD,313133,718394
+73725786,Dunbarney Primary School,Main Street,Bridge of Earn,MKD,313133,718459
+73726483,Cromlix Road,Drummond Crescent,Friarton,MKD,311578,721665
+73726484,Cromlix Road,Drummond Crescent,Friarton,MKD,311585,721689
+73725624,Canal Street,Canal Street,Perth,MKD,311715,723364
+73724687,Scott Street,Scott Street,Perth,MKD,311686,723332
+73724674,Scott Street,Scott Street,Perth,MKD,311682,723195
+73723865,Scott Street,Scott Street,Perth,MKD,311669,723196
+73723838,Scott Street,Scott Street,Perth,MKD,311672,723573
+73724672,Scott Street,Scott Street,Perth,MKD,311688,723544
+73725287,Crematorium,Crieff Road,Hillyland,MKD,309477,724858
+73723672,Crematorium,Crieff Road,Hillyland,MKD,309308,724893
+73725367,Primary School,Castle Brae,Ruthvenfield,MKD,307954,725426
+73723474,Primary School,Castle Brae,Ruthvenfield,MKD,307896,725472
+73724742,Scroggiehill,Main Street,Almondbank,MKD,306508,726042
+73723983,Scroggiehill,Main Street,Almondbank,MKD,306494,726047
+73724756,Hotel,Main Road,Pitcairngreen,MKD,306472,726952
+73724757,Lumsden Crescent,Lumsden Crescent,Almondbank,MKD,306832,726245
+73724658,South Methven Street,South Methven Street,Perth,MKD,311560,723591
+73723943,Leonard Street,Leonard Street,Perth,MKD,311325,723164
+73724673,Leonard Street,Leonard Street,Perth,MKD,311336,723213
+73723469,Methven Arms,Main Street (A85),Methven,MKD,302575,725922
+73723468,Methven Arms,Main Street,Methven,MKD,302548,725927
+73728723,Cuthill Towers,B996,Glenfarg,MKD,314957,707974
+73723458,Burnbrae Garage,A85,Mains of Gorthy,MKD,297006,724324
+73725362,Burnbrae Garage,A85,Mains of Gorthy,MKD,297011,724313
+73725365,Grahame Terrace,A85,Gilmerton,MKD,288652,723582
+73723294,Grahame Terrace,A85,Gilmerton,MKD,288704,723605
+73727273,St Dominics Primary School,Broich Road,Crieff,MKD,286075,721094
+73727272,Crieff High School,Pittenzie Road,Crieff,MKD,286796,721070
+73725382,RS McColl,High Street,Crieff,MKD,286436,721586
+73725453,Hill Street,High Street,Crieff,MKD,286397,721619
+73723989,Braco Road,Bridge Street,Dalginross,MKD,277631,721258
+73723435,Four Seasons Hotel,A85,St Fillans,MKD,269080,724451
+73723426,Barrack Road,Barrack Road,Dalginross,MKD,277701,721611
+73726486,DEL-St Johnâ€™s Academy - Primary,Barossa Street,Perth,MKD,311615,724064
+73726485,St Johns Academy,Gowans Terrace,Muirton,MKD,311279,725107
+73728769,Russell Street,Mill Street,Stanley,MKD,310888,733326
+73729368,Linn Road,Mill Street,Stanley,MKD,310988,733230
+73728563,Murray Place,Store Street,Stanley,CUS,310969,733055
+73732572,Cuthill Towers,B996,Glenfarg,MKD,314951,707972
+73728269,The Smithy,A93,Cargill,CUS,315361,736762
+73726478,Bambrick Wood,U236,Maryburgh,MKD,313730,695903
+73726479,Bambrick Wood,U236,Maryburgh,MKD,313723,695902
+73726256,Gairneybridge Farm,B996,Gairney Bank,MKD,312953,698522
+73728362,Eastertyre,A827,Logierait,CUS,294885,752704
+73726257,Gairneybridge Farm,B996,Gairney Bank,MKD,312969,698515
+73725862,Montgomery Street,High Street,Kinross,MKD,311917,702000
+73725859,Mill Street,High Street,Kinross,MKD,311952,702132
+73725847,Loch Leven Leisure Centre,B996,Kinross,MKD,311635,703690
+73725846,Loch Leven Leisure Centre,B996,Kinross,MKD,311644,703648
+73725928,Church Street,South Street,Milnathort,MKD,312014,704641
+73725929,Church Street,South Street,Milnathort,MKD,312031,704646
+73726267,Ladeside,Main Street,Glenfarg,MKD,313493,710450
+73726268,Garage,Main Street,Glenfarg,MKD,313530,710589
+73725742,School Wynd,Back Dykes,Abernethy,CUS,318918,716532
+73725739,School Wynd,Back Dykes,Abernethy,MKD,318902,716517
+73727986,Davie Park Place,Ashgrove Road,Rattray,CUS,318422,745114
+73728245,Tirinie,B846,Coshieville,CUS,279384,748581
+73728273,Tirinie,B846,Coshieville,CUS,279370,748569
+73728352,Farleyer,B846,Camserney,CUS,282847,749339
+73728469,Farleyer,B846,Camserney,CUS,282821,749328
+73724383,Sawmill,A93,Old Scone,MKD,311955,726820
+73724926,Sawmill,A93,Old Scone,MKD,311960,726841
+73726742,Stormont Way,Stormont Way,Scone,HAR,312918,726320
+73726797,Birch Terrace,Birch Avenue,Catmoor,HAR,313154,726310
+73726735,Craigroyston Road,Mayfield Road,Goshen,HAR,313703,725511
+73726787,Affric Avenue,Catmoor Avenue,Catmoor,HAR,313175,725987
+73725329,Lawgrove Place,Ruthvenfield Road,Inveralmond,MKD,309398,726291
+73723475,Inveralmond House,Auld Bond Road,North Muirton,MKD,309809,725902
+73724876,Argyll Road,Argyll Road,North Muirton,MKD,310598,725543
+73728532,High School,High Street,Kinross,CUS,311856,702545
+73723845,Gowans Terrace,Carnegie Place,Muirton,MKD,310921,725057
+73724624,Ainslie Place,Carnegie Place,Muirton,MKD,310945,724991
+73724945,Shops,Glengarry Road,Moncreiffe,MKD,311420,721671
+73724367,Shops,Glengarry Road,Moncreiffe,MKD,311410,721659
+73724365,Darnhall Drive,Darnhall Drive,Craigie,MKD,310711,722880
+73724949,Darnhall Drive,Darnhall Drive,Craigie,MKD,310733,722827
+73724638,Glenartney Terrace,Glendevon Road,Moncreiffe,MKD,311032,721748
+73724639,Glenartney Terrace,Glendevon Road,Moncreiffe,MKD,311055,721742
+73724526,Stormont Park,Spoutwells Drive,Scone,MKD,313181,726949
+73724568,Bridgend Court,Main Street,Bridgend,MKD,312257,724013
+73723869,Bridgend Court,Main Street,Bridgend,MKD,312238,724036
+73724623,Lovat Hotel,Glasgow Road,Viewlands,MKD,310550,723318
+73723857,Lovat Hotel,Glasgow Road,Viewlands,MKD,310539,723320
+73725627,Ash Grove,Viewlands Road West,Hillend,MKD,308802,723581
+73724659,Old Gallows Road,Fittis Road,Western Edge,MKD,308409,723728
+73723546,Poplar Crescent,Oakbank Road,Oakbank,MKD,309099,723145
+73798348,East Lodge,B846,Dunalastair,CUS,272744,759290
+73798575,East Lodge,B846,Dunalastair,CUS,272744,759294
+73728384,Post Box,B846,Dunalastair,CUS,270571,759103
+73728235,Post Box,B846,Dunalastair,CUS,270568,759118
+73728253,Drumchastle,B846,Dunalastair,CUS,268295,758733
+73723764,Logie Crescent,Campsie Road,Burghmuir,MKD,309126,724126
+73724839,Logie Crescent,Campsie Road,Burghmuir,MKD,309137,724131
+73724753,Whiteloch Avenue,A93,Carsie,MKD,317326,742628
+73723742,Whiteloch Avenue,A93,Carsie,MKD,317317,742634
+73723686,Bus Shelter,A984,Meikleour,MKD,315851,739431
+73723747,Bus Shelter,A984,Meikleour,CUS,315851,739438
+73728425,Lodge,B846,Tomphubil,CUS,277661,754451
+73728238,Lodge,B846,Tomphubil,CUS,277677,754445
+73725394,Fraser Ave,Old Church Road,Wolfhill,MKD,315290,733382
+73723676,Fraser Ave,Old Church Road,Wolfhill,MKD,315291,733391
+73723727,School Road,Main Road,Guildtown,MKD,313304,731858
+73724736,School Road,Main Road,Guildtown,MKD,313282,731968
+73723654,Perth Academy,Viewlands Road,Viewlands,MKD,310007,723179
+73728358,Old Struan Road End,B847,Struan,CUS,280197,765582
+73725856,Sainsburys Car Park,Station Road,Kinross,HAR,311173,702547
+73726378,Balado Crossroads,A977,Balado,MKD,308570,702221
+73726238,Drumhead,Main Street,Drum,MKD,304400,700715
+73726234,Naemoor Road,Main Street,Crook of Devon,MKD,303408,700198
+73726236,West Crook Way,A977,Crook of Devon,MKD,303065,699991
+73726232,Post Office,Main Street,Crook of Devon,MKD,303548,700224
+73726895,Primary School,Cleish Road,Cleish,CUS,309462,698070
+73727475,Mill Farm,B9097,Cleish,CUS,310238,697827
+73727478,Chance Inn,C498,Kinross,CUS,311039,700187
+73728239,Road End,B846,Foss,CUS,277950,757438
+73728385,Road End,B846,Foss,CUS,277942,757432
+73726258,Vicar's Bridge Road,Main Street,Blairingone,MKD,298537,696813
+73726324,Store,A977,Powmill,MKD,301953,698065
+73726327,Bus Shelter,A823,Rumbling Bridge,MKD,301749,699412
+73725984,Farm Road End,A91,Carnbo,MKD,305466,703171
+73728583,Eastertyre,A827,Logierait,CUS,294886,752696
+73728247,Croftinloan,U165,Milton of Edradour,CUS,295775,756632
+73725985,Farm Road End,A91,Carnbo,MKD,305465,703162
+73727976,Croftinloan,U165,Milton of Edradour,CUS,295796,756617
+73726328,Bus Shelter,A823,Rumbling Bridge,CUS,301851,699368
+73726323,Store,A977,Powmill,MKD,302001,698121
+73726259,Vicars Bridge Road,Main Street,Blairingone,MKD,298510,696808
+73728724,Croftcap Cottage,A827,Grandtully,CUS,289949,752216
+73728363,Croftcap Cottage,A827,Grandtully,CUS,289964,752227
+73728956,Castle,A827,Grandtully,CUS,289098,751482
+73728246,Castle,A827,Grandtully,CUS,289088,751480
+73728424,Tomaknock,Dollerie Terrace,Crieff,CUS,287996,721646
+73726343,Old Garage,Leslie Road,Scotlandwell,MKD,318584,701607
+73728529,Tomaknock,Dollerie Terrace,Crieff,CUS,287965,721640
+73726373,Broadwell,A911,Wester Balgedie,MKD,316649,704023
+73725849,Whinfield Drive,Springfield Road,Kinross,HAR,311472,702961
+73725857,Green Park,Green Road,Kinross,MKD,311412,702637
+73725863,Ross Street,Ross Street,Kinross,MKD,311512,702134
+73725827,Station Road,Station Road,Kinross,MKD,311318,702522
+73725828,Ochil View,Station Road,Kinross,MKD,311377,702507
+73725864,Ross Street,Ross Street,Kinross,MKD,311521,702132
+73725858,Green Park,Green Road,Kinross,MKD,311421,702626
+73725852,Whinfield Drive,Springfield Road,Kinross,HAR,311506,702962
+73726374,Broadwell,Main Road,Wester Balgedie,MKD,316558,704047
+73726329,Well Inn,Main Street,Scotlandwell,MKD,318538,701684
+73728232,Quarterbank,C459,New Fowlis,CUS,291966,722066
+73757574,Glenogle Court,Sauchie Road,Crieff,CUS,285957,721573
+73723763,Kettins Road End,A923,Kettins,MKD,323174,738774
+73724698,Kettins Road End,A923,Kettins,MKD,323181,738782
+73745867,Craigens Farm,C462,Trinity Gask,CUS,296058,718739
+73723542,Corsie Way,Corsie Way,Kinnoull,MKD,313246,723630
+73723867,Potterhill Gardens,Muirhall Road,Bridgend,MKD,312505,724011
+73748683,North Ardbennie,Ardbennie Road,Madderty,CUS,295008,721570
+73769394,North Ardbennie,Ardbennie Road,Madderty,CUS,295026,721583
+73753729,Ashgrove Terrace,Ashgrove Road,Rattray,MKD,318594,744841
+73724875,Perth High School,Oakbank Road,Oakbank,MKD,309518,723044
+73724975,Gannochy Walk,GANNOCHY ROAD,Gannochy,HAR,313064,724695
+73724567,Murray Royal Hospital Turning Circle,Hospital Grounds,Kinnoull,MKD,312902,723902
+73724298,Memorial Home,BOWERSWELL LANE,Kinnoull,MKD,312568,723683
+73723486,Murray Place,Glasgow Road,Viewlands,MKD,310478,723001
+73727595,Maple Road,Cedar Drive,Oakbank,HAR,308872,722918
+73727628,Muircroft Drive,Muircroft Drive,Oakbank,HAR,309096,723272
+73727634,Buchan Drive,Buchan Drive,Viewlands,HAR,309818,723373
+73726793,Comelybank Gardens,Dupplin Road,Gannochy,HAR,312433,724420
+73739836,Craigens Farm,C462,Trinity Gask,CUS,296042,718742
+73724538,Health Centre,Glover Street,Craigie,MKD,310926,723352
+73724862,Health Centre,Glover Street,Craigie,MKD,310938,723361
+73736956,Newmiln Farm,C410,Balgowan,CUS,301017,722899
+73762627,Newmiln Farm,C410,Balgowan,CUS,301033,722910
+73726527,Viewfield Place,Crieff Road,Muirton,MKD,310923,724425
+73723658,Viewfield Place,Crieff Road,Muirton,MKD,310944,724435
+73723464,Langside Road,Strathtay Road,Letham,MKD,309083,724828
+73723473,Langside Road,Strathtay Road,Letham,MKD,309014,724814
+73723856,Western Avenue,Rose Crescent,Perth,MKD,310503,723715
+73723528,Spens Crescent,Rose Crescent,Perth,MKD,310583,723631
+73784356,Dilkusha,A826,Rattray,MKD,319274,745690
+73798672,Dilkusha,A926,Rattray,MKD,319277,745711
+73725629,Leisure Pool,Glasgow Road,Perth,MKD,311027,723520
+73723535,Leisure Pool,Glasgow Road,Perth,MKD,311006,723537
+73725638,Necessity Brae,Glasgow Road,Cherrybank,MKD,309947,722611
+73723548,Necessity Brae,Glasgow Road,Cherrybank,MKD,309963,722624
+73727469,Sorting Office,High Street,Kinross,MKD,311941,702217
+73727486,Coldrain Road End,Coldrain Road,Balado,CUS,308045,700289
+73727568,Wallacetown Farm Road End,C417,Rhynd,CUS,315527,718862
+73727482,Telephone Box,Rhynd Road,Rhynd,CUS,315805,720051
+73728783,Innerleithen Way,Lamberkine Drive,Broxden,MKD,308554,722900
+73737674,Broxden House,Lamberkine Drive,Broxden,MKD,308430,722911
+73727483,Telephone Box,Rhynd Road,Rhynd,CUS,315814,720056
+73723928,Holiday Inn,Dunkeld Road,North Muirton,MKD,309911,725885
+73724834,Holiday Inn,Dunkeld Road,North Muirton,MKD,309946,725863
+73726586,Scarth Road,Main Road,Luncarty,MKD,309417,729622
+73726725,Cross,Perth Road,Stanley,MKD,310845,732946
+73726724,Cross,Perth Road,Stanley,MKD,310849,732966
+73723492,Garry Place,Prieston Road,Bankfoot,MKD,306373,735270
+73723957,Post Box,Dunkeld Road,Waterloo,MKD,305977,736782
+73724594,Post Box,Dunkeld Road,Waterloo,MKD,305992,736780
+73723962,Birnam Hotel,Perth Road,Birnam,MKD,303124,741898
+73724585,Birnam Hotel,Perth Road,Birnam,MKD,303152,741893
+73723948,North Car Park,Atholl Street,Dunkeld,MKD,302604,742875
+73723893,Bus Bay,A9,Kindallachan,MKD,299446,749739
+73724573,Bus Bay,A9,Kindallachan,MKD,299521,749628
+73724845,Bus Turning Circle,A827,Ballinluig,MKD,297608,753033
+73725874,Church,A827,Logierait,MKD,296816,752029
+73725873,Church,A827,Logierait,MKD,296830,752036
+73727523,Hotel,A827,Grandtully,MKD,291251,753141
+73727524,Hotel,A827,Grandtully,MKD,291261,753176
+73723685,Chapel Street,CHAPEL STREET,Aberfeldy,MKD,285663,749112
+73724279,Taybridge Drive,Taybridge Drive,Aberfeldy,CUS,285185,749234
+73745863,Ferneyfold Farm,C462,Trinity Gask,CUS,296679,721134
+73723496,West End Car Park,West End Car Park,Pitlochry,MKD,293710,758197
+73724797,Fishers Hotel,Atholl Road,Pitlochry,MKD,293930,758169
+73723924,High School,East Moulin Road,Pitlochry,MKD,294542,758651
+73723926,Balnadrum Terrace,East Moulin Road,Moulin,MKD,294444,759039
+73725487,Fishers Hotel,Atholl Road,Pitlochry,MKD,293907,758168
+73727947,Moness Crescent,Moness Crescent,Aberfeldy,MKD,285775,748809
+73727949,The Square,Old Crieff Road,Aberfeldy,CUS,285677,749048
+73727597,Academy Car Park,Car Park,Viewlands,HAR,310085,722999
+73725848,Lathro Park,Lathro Park,Kinross,HAR,311261,703564
+73727467,Thompson Place,Morlich Place,Kinross,HAR,311171,703285
+73727468,Thompson Place,Morlich Place,Kinross,HAR,311161,703287
+73725829,Primary School,Station Road,Kinross,MKD,311554,702408
+73725832,Primary School,Station Road,Kinross,MKD,311660,702359
+73727473,Friar Place,B920,Scotlandwell,CUS,318521,701536
+73727472,Friar Place,B920,Scotlandwell,MKD,318516,701548
+73725869,Vane Farm,B9097,Kinross,CUS,315967,699084
+73725872,Vane Farm,B9097,Kinross,CUS,315960,699063
+73725868,Bridgend,High Street,Kinross,MKD,311828,701645
+73725867,Bridgend,High Street,Kinross,MKD,311819,701656
+73727354,Hill Primary School,James Street,Blairgowrie,MKD,317762,745383
+73726237,West Crook Way,A977,Crook of Devon,MKD,303047,699986
+73727368,Marlee Gardens,A923,Kinloch,MKD,314631,744791
+73727367,Marlee Gardens,A923,Kinloch,MKD,314639,744773
+73727365,Telephone Box,A923,Forneth,MKD,310058,745155
+73727364,Telephone Box,A923,Forneth,MKD,310054,745149
+73727362,Telephone Box,A923,Butterstone,MKD,306413,745772
+73727363,Telephone Box,A923,Butterstone,MKD,306428,745775
+73727358,Post Box,A898,Dalguise,MKD,299334,747184
+73727359,Post Box,A898,Dalguise,MKD,299332,747153
+73727372,Bus Shelter,B898,Balnaguard,MKD,294614,751868
+73727369,Bus Shelter,B898,Balnaguard,MKD,294621,751873
+73727346,Essendy Bridge,B947,Wester Essendy,CUS,314792,743259
+73727343,Church,B947,Kirkton of Lethendy,CUS,312998,741828
+73723698,War Memorial,The Green,Spittalfield,MKD,310733,740840
+73725436,Spittalfield,The Green,Spittalfield,MKD,310802,740880
+73727325,Taybank House,A984,Caputh,CUS,308741,740086
+73727324,Taybank House,A984,Caputh,CUS,308745,740098
+73727326,Bus Shelter,C430,Snaigow,CUS,308712,743207
+73727327,Bus Shelter,C430,Snaigow,CUS,308707,743216
+73727328,Telephone Box,C432,Craigie,CUS,311955,743712
+73727329,Telephone Box,C432,Craigie,CUS,311957,743699
+73726893,Concraigie,U111,Forneth,CUS,310125,744190
+73726894,Concraigie,U111,Forneth,CUS,310139,744185
+73727323,Ardblair Medical Centre,ANN STREET,Blairgowrie,MKD,317398,744604
+73727298,Berrydale Avenue,Berrydale Road,Blairgowrie,HAR,317824,744344
+73726583,Keathbank Mill,Balmoral Road,Rattray,CUS,317817,746273
+73727347,Cluny Court,Grant Road,Blairgowrie,HAR,317729,744824
+73727295,Bus Depot,Haugh Road,Rattray,HAR,318234,745163
+73727294,Bus Depot,Haugh Road,Rattray,HAR,318239,745130
+73727293,Old Mill Road End,Ashgrove Road,Rattray,HAR,319073,744812
+73726584,Keathbank Mill,Balmoral Road,Rattray,CUS,317815,746242
+73728564,Kinclaven Crescent,Kinclaven Road,Murthly,CUS,310293,738252
+73728795,Kinclaven Crescent,KINCLAVEN ROAD,Murthly,CUS,310358,738207
+73727292,Dirnanean Lodge,A924,Enochdhu,MKD,306297,762765
+73727289,Dirnanean Lodge,A924,Enochdhu,MKD,306293,762776
+73727286,Primary School,A924,Straloch,CUS,304493,763899
+73727285,Primary School,A924,Straloch,CUS,304478,763907
+73727284,Road End,A924,Tarvie,CUS,301178,763823
+73723794,Post Office,The Square,Meigle,MKD,328694,744666
+73723678,Church,Dundee Road,Meigle,MKD,328669,744615
+73726425,The Square,B846,Kinloch Rannoch,MKD,266178,758710
+73726356,Kynachan Hotel Road End,B846,Kynachan,CUS,277243,758852
+73726248,Queens View,B8019,Strathtummel,MKD,286409,759919
+73726247,Queens View,B8019,Strathtummel,MKD,286409,759904
+73726246,Road End,B8019,Fincastle,MKD,288279,761060
+73726245,Road End,B8019,Fincastle,MKD,288299,761078
+73726368,Loch Tummel Inn,B8019,Strathtummel,MKD,281809,760136
+73726367,Loch Tummel Inn,B8019,Strathtummel,MKD,281801,760157
+73726243,Campsite,B8079,Faskally,MKD,291745,760301
+73726242,Campsite,B8019,Faskally,MKD,291775,760260
+73726365,Caravan Park,B8019,Tummel Bridge,MKD,276421,759140
+73726364,Caravan Park,B8019,Tummel Bridge,MKD,276421,759133
+73724825,Aldour,Perth Road,Pitlochry,MKD,294849,757519
+73726434,Annat House,B846,Kinloch Rannoch,MKD,263855,759174
+73726432,Annat House,B846,Kinloch Rannoch,MKD,263853,759180
+73726294,Burnside,B846,Killichonan,MKD,254466,758070
+73725962,Burnside,B846,Killichonan,MKD,254465,758062
+73726426,Telephone Box,South Loch Rannoch Road,Dall,MKD,259767,756921
+73726427,Telephone Box,South Loch Rannoch Road,Dall,MKD,259768,756915
+73726429,Finnart,Sth Loch Rannoch Rd,Bridge of Gaur,MKD,251680,756898
+73726428,Finnart,Sth Loch Rannoch Rd,Bridge of Gaur,MKD,251679,756904
+73726439,Tighnabruiach,B846,Bridge of Ericht,MKD,252124,758248
+73726437,Station,B846,Rannoch,MKD,242259,757823
+73726438,Tighnabruiach,B846,Bridge of Ericht,MKD,252130,758255
+73724798,Phone Box,Newtyle Road,Kettins,CUS,323849,739107
+73723769,Church Street,Main Street,Ardler,MKD,326426,741977
+73724823,Church Street,Main Street,Ardler,CUS,326412,741951
+73728328,Strathallan Village,B935,Forgandenny,MKD,307702,717743
+73737264,Strathallan Village,B935,Forgandenny,MKD,307713,717744
+73737352,Fonab Crescent,Bridge Street,Pitlochry,MKD,294394,757394
+73736897,Fonab Crescent,Bridge Street,Pitlochry,MKD,294394,757381
+73736893,Luncarty House,Marshall Way,Luncarty,HAR,309800,729502
+73727983,Golf Hotel,Golf Course Road,Rosemount,CUS,318758,743083
+73728582,Golf Hotel,Golf Course Road,Rosemount,CUS,318749,743068
+73728439,Road End,A924,Tarvie,CUS,301154,763810
+73728345,Kinclaven Road End,A93,Meikleour,CUS,316171,738342
+73727982,Kinclaven Road End,A93,Meikleour,CUS,316178,738351
+73728528,The Smithy,A93,Cargill,CUS,315347,736738
+73728543,Racecourse,Car Park,Old Scone,CUS,311029,727265
+73726295,Village Hall,B8079,Killiecrankie,MKD,291318,762892
+73726296,Village Hall,B8079,Killiecrankie,MKD,291286,762898
+73725769,Atholl Arms,B8079,Blair Atholl,MKD,287163,765353
+73725768,Atholl Arms,Main Road,Blair Atholl,MKD,287153,765363
+73725782,House of Bruar car park,B8079,Bruar,MKD,282037,765982
+73725983,Bus Shelter,B847,Calvine,MKD,280438,765778
+73725982,Bus Shelter,B847,Calvine,MKD,280450,765783
+73726928,Old Struan Road End,B847,Struan,CUS,280191,765578
+73727282,Post Box,U29,Blacklunans,CUS,314920,760454
+73727283,Rhiedorrach,A93,Spittal of Glenshee,CUS,312783,774135
+73726352,Telephone Exchange,B846,Tummel Bridge,CUS,276258,759243
+73726346,Old Post Office,B847,Trinafour,MKD,272396,764106
+73727579,Willowgate Fishery,Dundee Road,Walnut Grove,MKD,313028,721904
+73723937,Prieston Road,Main Street,Bankfoot,MKD,306889,735261
+73723953,Prieston Road,Main Street,Bankfoot,MKD,306836,735305
+73727278,Arnbog Farm,A94,Meigle,CUS,332015,746100
+73727274,Kinloch Road End,A94,Meigle,CUS,327128,744144
+73727275,Kinloch Road End,A94,Meigle,CUS,327108,744142
+73727868,Spoutwells Farm,B947,Kirkton of Lethendy,CUS,313517,741796
+73727878,Hillocks of Gourdie,U112,Craigie,CUS,312115,743231
+73727894,Drumellie,C432,Wester Essendy,CUS,313349,743600
+73727892,The Steading,C432,Wester Essendy,CUS,313755,743556
+73727874,Easter Essendy,B947,Wester Essendy,CUS,314832,742901
+73726879,Burnbank,A93,Carsie,CUS,317163,741779
+73726878,Burnbank,A93,Carsie,CUS,317188,741844
+73726858,Boatlands,Bridge Road,Caputh,CUS,308891,739615
+73726856,Cranley Farm,U113,Meikleour,CUS,314808,741395
+73726876,Little Fardle Farm,A984,Meikleour,CUS,314159,740774
+73726875,Little Fardle Farm,A984,Meikleour,CUS,314162,740790
+73726873,Village Hall,A984,Meikleour,CUS,315826,739356
+73726874,Village Hall,A984,Meikleour,CUS,315819,739354
+73728959,Kindrogan Centre Road End,A924,Enochdhu,CUS,306235,762804
+73726863,Mains of Pittendriech,A984,Meikleour,CUS,315689,739808
+73726872,Tay Farm Cottages,A984,Meikleour,CUS,314963,740242
+73726869,Tay Farm Cottages,A984,Meikleour,CUS,314990,740232
+73726868,Drumbeltie Farm,A984,Meikleour,CUS,313967,741036
+73726867,Drumbeltie Farm,A984,Meikleour,CUS,313989,741022
+73726864,West Drumatherty Farm,A984,Spittalfield,CUS,311864,741285
+73726865,West Drumatherty Farm,A984,Spittalfield,CUS,311879,741296
+73725963,Maryland,A913,Aberargie,MKD,316170,715820
+73725964,Maryland,A913,Aberargie,MKD,316127,715818
+73726297,Heughfield Road,Heughfield Road,Kintillo,MKD,313072,717838
+73727547,Primary School,Main Street,Abernethy,MKD,319167,716518
+73726859,St Stephens Primary School,George Street,Blairgowrie,CUS,317682,745237
+73726849,Craigton,A93,Dalrulzion,CUS,313371,757737
+73726848,Craigton,A93,Dalrulzion,CUS,313361,757754
+73728987,Kindrogan Centre Road End,A924,Enochdhu,CUS,306256,762812
+73726847,Blackhall Farm,A93,Dalrulzion,CUS,313760,756949
+73726846,Blackhall Farm,A93,Dalrulzion,CUS,313752,756938
+73726845,Hatton Road Caravan Park,Hatton Road,Rattray,HAR,318078,746056
+73726595,Craighall Place,Hatton Road,Rattray,MKD,318095,746016
+73726476,Portmoak Primary School,Buchan Ave,Kinnesswood,CUS,317734,702945
+73725764,Primary School,Stirling Road,Milnathort,MKD,311693,704679
+73725924,Primary School,Stirling Road,Milnathort,MKD,311680,704662
+73725925,Bridgefauld Road,South Street,Milnathort,MKD,311846,704309
+73725926,Bridgefauld Road,South Street,Milnathort,MKD,311861,704358
+73725853,Morlich Place,Sutherland Drive,Kinross,HAR,311196,703184
+73725854,Morlich Place,Sutherland Drive,Kinross,HAR,311200,703169
+73724959,Dunning road end,A9,Broom of Dalreoch,MKD,300071,717160
+73726573,Smiddy Haugh Hotel,Main Road,Aberuthven,MKD,297817,715376
+73727257,Community School Bus Park,New School Lane,Auchterarder,MKD,294500,713011
+73725379,Gleneagles Hotel,A823,Auchterarder,CUS,292037,711215
+73723248,Moray Institute,Moray Street,Blackford,MKD,289494,708780
+73725385,Coaching Inn,Moray Street,Blackford,MKD,289685,708939
+73725384,Millhill Drive,Millhill Road,Greenloaning,MKD,283440,707149
+73723245,Millhill Drive,Millhill Road,Greenloaning,MKD,283438,707166
+73723247,Moray Institute,Moray Street,Blackford,MKD,289501,708812
+73723242,Gleneagles Hotel,A823,Auchterarder,CUS,292025,711215
+73726547,Smiddy Haugh Hotel,Main Road,Aberuthven,MKD,297824,715400
+73724265,Dunning road end,A9,Broom of Dalreoch,MKD,300212,717335
+73723537,South Street,South Street,Perth,MKD,311585,723489
+73727423,Mill of Peattie Crossroads,C405,Campmuir,CUS,322723,737296
+73727457,Balgersho Road End,C405,Campmuir,CUS,321760,737740
+73727456,Balgersho Road End,C405,Campmuir,CUS,321769,737747
+73727425,Newmill Road End,A94,Burrelton,CUS,319812,735974
+73727424,Newmill Road End,A94,Burrelton,CUS,319805,735998
+73727429,Springfield Road End,A94,Burrelton,CUS,319668,735486
+73728393,South Drop Off,off B918,Balado,CUS,309139,703116
+73727426,Springfield Road End,A94,Burrelton,CUS,319650,735478
+73727427,Dunsinnan Estate Road End,A94,Balbeggie,CUS,317720,731737
+73727428,Dunsinnan Estate Road End,A94,Balbeggie,CUS,317713,731752
+73724795,Church,A94,Balbeggie,MKD,316927,729327
+73724326,Church,A94,Balbeggie,MKD,316928,729386
+73727392,War Memorial,St Martins Road,St Martins,CUS,315305,730301
+73727389,Green Road,St Martins Road,Balbeggie,CUS,316834,729494
+73727387,Green Road,St Martins Road,Balbeggie,CUS,316830,729488
+73725243,Highfield Road,Angus Road,Scone,MKD,314064,726690
+73724342,Highfield Road,Angus Road,Scone,MKD,314024,726680
+73727972,Royal Infirmary Turning Circle,Western Avenue,Perth,MKD,310215,723752
+73727374,Hillfoot Farm Road End,C440,Burrelton,CUS,322307,735345
+73727373,Hillfoot Farm Road End,C440,Burrelton,CUS,322300,735352
+73727376,Over Buttergask,C440,Burrelton,CUS,321871,734917
+73728476,Larghan Park,Forfar Road,Coupar Angus,MKD,322720,740582
+73727375,Over Buttergask,C440,Burrelton,CUS,321871,734936
+73727379,Ledgertlaw Farm Road End,C440,Burrelton,CUS,320971,733696
+73727378,Ledgertlaw Farm Road End,C440,Burrelton,CUS,320979,733724
+73727384,Saucher Road End,C440,Collace,CUS,320177,732809
+73727382,Saucher Road End,C440,Collace,CUS,320173,732816
+73723452,Bus Shelter,C441,Saucher,MKD,319773,733161
+73727386,Flowerdale Road End,C439,Kinrossie,CUS,319311,732730
+73727385,Flowerdale Road End,C439,Kinrossie,CUS,319303,732732
+73726798,Brands Brae,Brands Brae,Gannochy,HAR,312951,724727
+73726732,Gannochy Green,Gannochy Green,Gannochy,HAR,312804,724642
+73729425,Larghan Park,Forfar Road,Coupar Angus,MKD,322729,740567
+73724382,Charlotte Street,Charlotte Street,Perth,MKD,311842,723897
+73723529,High School Bus Park,Oakbank Road,Oakbank,MKD,309601,723014
+73727454,Netherlea,Netherlea,Scone,HAR,314019,725778
+73727439,Stormontfield Road,A93,Old Scone,CUS,311915,726896
+73727453,Hall,Colenhaugh,Stormontfield,CUS,310615,729750
+73724856,Strathearn Court,Strathearn Terrace,Crieff,MKD,286682,721798
+73727248,Rectory Road,Rectory Road,Crieff,HAR,286848,721913
+73724529,Hospital,King Street,Crieff,MKD,286245,721369
+73727245,Strathearn Community Campus,Pittenzie Road,Crieff,MKD,286827,720947
+73724254,Visitor Centre,Muthill Road,Crieff,MKD,285713,720562
+73727247,Innerpeffray,B8062,Madderty,CUS,291083,718867
+73727246,Innerpeffray,B8062,Madderty,CUS,291083,718845
+73723754,Kinkell Cottage,B8062,Kinkell Bridge,MKD,293177,716625
+73724828,Kinkell Cottage,B8062,Kinkell Bridge,MKD,293197,716622
+73727254,Post Office,Drummond Street,Muthill,MKD,286746,717027
+73727253,Post Office,Drummond Street,Muthill,MKD,286712,717041
+73728379,War Memorial,Meigle Road,Alyth,MKD,325025,747933
+73727393,School,Station Road,Muthill,CUS,286863,717031
+73727256,Primary School,Station Road,Muthill,CUS,286854,717023
+73724878,Drumness Farm,C458,Drumness,CUS,290206,715674
+73724532,Drumness Farm,C458,Drumness,CUS,290244,715655
+73724892,War Memorial,U20,Tullibardine,MKD,292413,714097
+73724537,War Memorial,U20,Tullibardine,MKD,292423,714094
+73728243,Cedarwood,Highlandman Loan,Gilmerton,CUS,288267,722537
+73728475,Cedarwood,Highlandman Loan,Gilmerton,CUS,288272,722550
+73723765,Road End,C405,Dundriven,CUS,325082,734336
+73724542,Primary School,B953,Abernyte,CUS,325908,731162
+73724867,Primary School,B953,Abernyte,MKD,325912,731145
+73725497,Post Office,Main Road,Inchture,MKD,328025,728744
+73723637,Post Office,Main Road,Inchture,MKD,328020,728752
+73724642,Road End,C401,Rait,CUS,323036,726598
+73724256,Road End,C401,Rait,CUS,323024,726589
+73724985,Road End,C401,Kilspindie,CUS,322132,725677
+73724353,Road End,C401,Kilspindie,CUS,322130,725686
+73723538,Garden Centre,A90,Glendoick,MKD,321043,722637
+73725476,Garden Centre,A90,Glendoick,MKD,320962,722542
+73725462,Post Office,C484,Glencarse,MKD,319608,721552
+73723647,Post Office,C484,Glencarse,MKD,319618,721571
+73725389,Gleneagles Station Road End,A9,Auchterarder,MKD,292747,710808
+73725892,Craig Place,U9,Madderty,CUS,294629,720433
+73725893,Craig Place,U9,Madderty,CUS,294605,720453
+73725894,Bellyclone,C410,Madderty,MKD,293316,720209
+73725895,DEL-Bellyclone,C410,Madderty,MKD,293310,720203
+73724896,James Square,James Square,Crieff,MKD,286376,721584
+73728438,High School,High Street,Kinross,CUS,311849,702521
+73725467,Corlundy Crescent,Corlundy Crescent,Crieff,CUS,286575,721088
+73724968,Duchlage Court,Duchlage Court,Crieff,MKD,286390,721179
+73724235,Highland Crescent,Highland Crescent,Crieff,HAR,285360,721941
+73725469,Turretbank Place,Turretbank Drive,Crieff,MKD,285553,722600
+73725472,Abbots Walk,Milnab Street,Crieff,MKD,286013,721981
+73725878,Isle Cottage,C460,Mains of Gorthy,MKD,295490,723937
+73725879,DEL-Gorthy Toll,C460,Mains of Gorthy,MKD,295468,723936
+73725875,Abbey Farm,C460,Madderty,CUS,295336,722119
+73725876,Abbey Farm,C460,Madderty,CUS,295355,722127
+73725364,Fowlis Wester Road End,A85,New Fowlis,MKD,292703,723218
+73723293,Fowlis Wester Road End,A85,New Fowlis,MKD,292754,723230
+73727237,Grace Cottage,U7,Milton of Cultoquhey,CUS,289613,722736
+73727238,Grace Cottage,U7,Milton of Cultoquhey,CUS,289602,722738
+73723262,Murrayfield Loan,Dollerie Terrace,Crieff,MKD,286974,721662
+73726969,Old Post Office,C409,Glenalmond,CUS,297440,728230
+73726968,Telephone Box,B8063,Buchanty,CUS,293428,728277
+73726967,Telephone Box,B8063,Harrietfield,CUS,298218,729733
+73726965,Bridgend of Ardittie,C409,Harrietfield,CUS,300132,729318
+73726978,Almond Grove,Bleachers Way,Huntingtowerfield,MKD,307271,725769
+73726926,ASDA Entrance,Car Park,Muirton,CUS,310976,724638
+73724792,Balnadrum Terrace,East Moulin Road,Moulin,MKD,294454,759023
+73727464,West Road End,A90,Walnut Grove,MKD,313363,722054
+73727459,The Grove,The Holdings,Walnut Grove,MKD,313803,722189
+73727458,The Grove,The Holdings,Walnut Grove,MKD,313844,722198
+73725658,Green,Cairnie Road,St Madoes,MKD,319392,721106
+73723573,Abernyte Link Road,Inchture Interchange,Inchture,MKD,327966,729026
+73723578,Church,Main Street,Longforgan,MKD,330933,730030
+73725696,Church,Main Street,Longforgan,MKD,330908,730013
+73725723,Eastbank Place,Main Street,Longforgan,MKD,331522,730144
+73727463,Castle Huntly Gates,U143,Longforgan,MKD,330461,729618
+73727462,Castle Huntly Gates,U143,Longforgan,MKD,330453,729622
+73725726,The Green,Woodland way,Kingoodie,MKD,333924,729324
+73725725,The Green,Woodland Way,Kingoodie,MKD,333903,729313
+73723584,Carselea Road,Main Street,Invergowrie,MKD,334796,730370
+73725672,Mylnefield Road,Main Street,Invergowrie,MKD,334883,730337
+73725957,Hotel,B846,Weem,MKD,284225,749726
+73725958,Hotel,B846,Weem,MKD,284240,749723
+73725795,Drumdewan Road End,B846,Dull,MKD,281236,748850
+73725796,Drumdewan Road End,B846,Dull,MKD,281228,748837
+73726287,Hotel,C448,Coshieville,MKD,277728,749129
+73726289,Hotel,C448,Coshieville,MKD,277732,749122
+73726292,War Memorial,C448,Keltneyburn,MKD,277373,749129
+73726293,War Memorial,C448,Keltneyburn,MKD,277367,749109
+73725797,Hotel,C448,Fortingall,MKD,274089,747022
+73725798,Hotel,C448,Fortingall,MKD,274087,747012
+73726249,Village Hall,Fearnan Road,Fearnan,MKD,272199,744756
+73726252,Village Hall,Fearnan Road,Fearnan,MKD,272205,744758
+73727394,Hotel,A827,Kenmore,MKD,277320,745475
+73727395,Hotel,A827,Kenmore,MKD,277338,745463
+73726934,Cross,Ballinlaggan,Acharn,MKD,275634,743837
+73727252,Willoughby Street,Willoughby Street,Muthill,MKD,286792,716804
+73727249,Willoughby Street,Willoughby Street,Muthill,MKD,286803,716808
+73726963,Comrie road end,A822,Braco,CUS,284039,710663
+73726964,Comrie road end,A822,Braco,CUS,284016,710641
+73726384,Smiddy Brae,Front Street,Braco,MKD,283723,709620
+73726385,Smiddy Brae,Front Street,Braco,MKD,283726,709558
+73726983,School Bus Park,Bus Park,North Muirton,CUS,310838,725239
+73726976,Rowan Cottage,C410,Balgowan,MKD,299175,722450
+73725956,Rowan Cottage,C410,Balgowan,MKD,299181,722444
+73724539,Commissioner Street,Commissioner Street,Crieff,CUS,286416,721313
+73724245,Road End,A822,Newton Bridge,MKD,288762,731542
+73724578,Road End,A822,Newton Bridge,MKD,288771,731536
+73724373,Farm Road End,A822,Fendoch,MKD,291093,727558
+73724597,Farm Road End,A822,Fendoch,MKD,291102,727554
+73724628,Kirk,U1,Monzie,MKD,287849,725031
+73724238,Kirk,U1,Monzie,MKD,287857,725033
+73724289,The Blind Inn,U1,Mains of Callander,MKD,286682,724530
+73724286,The Blind Inn,U1,Mains of Callander,MKD,286678,724538
+73725245,Farm,U1,Hosh,MKD,285636,723694
+73724292,Farm,U1,Hosh,MKD,285628,723696
+73724232,Park Village,Turretbank Road,Crieff,MKD,285672,722481
+73724248,Hotel,A822,Amulree,MKD,290049,736684
+73724249,Hotel,A822,Amulree,MKD,290064,736680
+73724252,Scotston,A826,Amulree,MKD,290566,742633
+73724785,Scotston,A826,Amulree,MKD,290572,742645
+73734245,Murrayfield Loan,Dollerie Terrace,Crieff,CUS,286973,721649
+73723753,Mid Fordun Road End,B8062,Auchterarder,MKD,294754,714916
+73724827,Mid Fordun Road End,B8062,Auchterarder,MKD,294747,714908
+73725374,Strathallan Airfield,C456,Tullibardine,MKD,291731,716266
+73723236,Strathallan Airfield,C456,Tullibardine,MKD,291766,716262
+73723237,Ladyston,C457,Muthill,CUS,290210,716121
+73725375,Ladyston,C457,Muthill,MKD,290180,716125
+73723762,Easthill,Easthill Road,Auchterarder,MKD,292839,712680
+73724748,Easthill,Easthill Road,Auchterarder,MKD,292842,712688
+73727259,Glenorchil View,Tullibardine Road,Auchterarder,MKD,293374,712360
+73727258,Glenorchil View,Tullibardine Road,Auchterarder,MKD,293374,712367
+73723973,Loaninghead Flyover,A823,Auchterarder,MKD,292523,709953
+73724764,Peterhead Farm Road End,A823,Auchterarder,CUS,292547,709870
+73724784,Frandy Farm,A823,Glendevon,MKD,294840,705293
+73723974,Frandy Farm,A823,Glendevon,MKD,294884,705265
+73724754,Tormaukin Hotel,A823,Glendevon,MKD,299386,704251
+73723987,Tormaukin Hotel,A823,Glendevon,MKD,299375,704249
+73727534,Glenorchill Terrace,Glenorchill View,Auchterarder,CUS,293505,712500
+73726837,Mayfield road end,Mill of Gask Road,Findo Gask,CUS,301612,720183
+73726838,Mayfield road end,Mill of Gask Road,Findo Gask,CUS,301637,720205
+73726563,Scarth Road,Main Road,Luncarty,MKD,309428,729589
+73726839,Telephone Exchange,Mill of Gask Road,Findo Gask,CUS,300459,719717
+73726836,Loanfoot Cottage,C411,Trinity Gask,CUS,296348,718015
+73726835,Loanfoot Cottage,C411,Trinity Gask,CUS,296369,718028
+73729629,Mill Road,Mill Road,Invergowrie,CUS,334556,730614
+73723498,Kinfauns Castle,A90,Kinfauns,MKD,314941,722343
+73723574,Store,Low Carse Road,St Madoes,MKD,319466,721104
+73725728,Store,Low Carse Road,St Madoes,MKD,319454,721103
+73723565,Cross,High Street,Errol,MKD,325008,722764
+73725687,Dalgleish House,High Street,Errol,MKD,325011,722756
+73723572,Bus Shelter,Low Carse Road,Grange,MKD,327233,725415
+73725694,Bus Shelter,Low Carse Road,Grange,MKD,327262,725415
+73725498,Flyover,A90,Glencarse,MKD,319258,721113
+73723726,Templehall Road End,B958,Longforgan,CUS,331524,728291
+73724762,Templehall Road End,B958,Longforgan,CUS,331522,728282
+73725676,Primary School,Station Road,Dunning,MKD,301791,714571
+73725675,Primary School,Station Road,Dunning,MKD,301807,714520
+73727536,Crown Car Park,Crown Court,Auchterarder,CUS,294468,712814
+73723523,Mountview,A85,Huntingtower,MKD,307455,724966
+73725654,Mountview,A85,Huntingtower,MKD,307382,724958
+73724759,Coach House,C410,Tibbermore,MKD,305009,723645
+73724735,Coach House,C410,Tibbermore,MKD,305077,723671
+73725234,Meadow Place,Burrell Street,Crieff,MKD,286126,721565
+73726389,DEL-Kinbuck Primary School,B8033,Kinbuck,MKD,279164,705045
+73732425,Bohally,B8019,Tummel Bridge,CUS,278405,759121
+73732547,Bohally,B8019,Tummel Bridge,CUS,278385,759135
+73726358,Deer Park,B846,Glengoulandie,MKD,276731,752444
+73726359,Deer Park,B846,Glengoulandie,MKD,276744,752441
+73726937,Creagan,A827,Morenish,CUS,259491,735026
+73726938,Creagan,A827,Morenish,CUS,259511,735029
+73726936,Hotel,A827,Lawers,CUS,267721,739533
+73726935,Hotel,A827,Lawers,MKD,267733,739552
+73793248,Alexander Drive,Clayton Road,Bridge of Earn,MKD,313867,717939
+73725793,Road End,B846,Camserney,MKD,282028,749109
+73725794,Road End,B846,Camserney,MKD,282045,749110
+73723896,East Haugh,Old A9,Milton of Edradour,CUS,295702,756537
+73724826,East Haugh,Old A9,Milton of Edradour,CUS,295715,756533
+73726948,Donavourd,U165,Milton of Edradour,CUS,295803,757310
+73726949,Donavourd,U165,Milton of Edradour,CUS,295808,757300
+73726946,Distillery,U165,Milton of Edradour,CUS,295909,758016
+73726947,Distillery,U165,Milton of Edradour,CUS,295915,758010
+73726956,The Knapp,U118,Ballathie,CUS,313439,737304
+73726954,The Knapp,U118,Ballathie,CUS,313449,737298
+73726535,Church Hall,Perth Road,Stanley,MKD,310664,733452
+73726587,Church Hall,Perth Road,Stanley,MKD,310676,733447
+73725695,Railway Station,Station Road,Invergowrie,MKD,334874,729843
+73725953,Village Shop,C447,Strathtay,CUS,291332,753561
+73725783,House of Bruar,B8079,Bruar,MKD,282230,765987
+73726369,Post Box,B8019,Strathtummel,MKD,281945,760178
+73726372,Post Box,B8019,Strathtummel,MKD,281941,760163
+73725975,Old School,South Loch Rannoch Road,Bridge of Gaur,MKD,250415,756520
+73725976,Old School,South Loch Rannoch Road,Bridge of Gaur,MKD,250400,756522
+73727962,Post Office,Ford Street,Blair Atholl,CUS,287137,765301
+73727963,Inverack,A9,Calvine,CUS,283927,765695
+73726348,Road End,B847,Kinaldy,MKD,277514,763887
+73726929,Lodge,A9,Dalnacardoch,CUS,272300,770273
+73726392,Old Station,Dalnaspidal Road,Dalnaspidal,MKD,264560,773340
+73723692,Post Office,Dunkeld Street,Aberfeldy,CUS,285716,749127
+73726394,Telephone Box,C448,Invervar,MKD,266605,748252
+73726393,Telephone Box,C448,Invervar,MKD,266608,748245
+73726435,War Memorial,C448,Innerwick,MKD,258737,747564
+73726395,Post Office,Glenlyon Road,Bridge of Balgie,MKD,257760,746865
+73726396,Post Office,Glenlyon Road,Bridge of Balgie,MKD,257765,746863
+73726397,Meggernie Castle,Glenlyon Road,Bridge of Balgie,MKD,257616,746773
+73726423,Gallin,Glenlyon Road,Bridge of Balgie,MKD,253650,745487
+73726285,Road End,Glenlyon Road,Cashlie,MKD,249147,741887
+73726284,Power Station,Glenlyon Road,Lubreoch,MKD,245359,741750
+73723683,Tesco,Crieff Road,Hillyland,MKD,308882,724884
+73723684,Tesco,Crieff Road,Hillyland,MKD,308865,724883
+73723689,Tesco,Crieff Road,Hillyland,MKD,308842,724881
+73727656,DEL-Perth Mart,A85,Perth,MKD,308430,724781
+73726973,Forglen,C409,Lawmuir,CUS,302849,726848
+73726972,Forglen,C409,Lawmuir,CUS,302863,726848
+73726975,Skelton Road,Skelton Road,Methven,CUS,302791,726077
+73726974,Skelton Road,Skelton Road,Methven,CUS,302804,726081
+73738529,Sauchie Road,Burrell Street,Crieff,MKD,285999,721219
+73723723,Lawgrove Place,Ruthvenfield Road,Inveralmond,MKD,309372,726309
+73723682,McDiarmid Park,Crieff Road,Hillyland,MKD,309046,724895
+73725294,McDiarmid Park,Crieff Road,Hillyland,MKD,309088,724885
+73723695,Crieff Road,Crieff Road,Hillyland,MKD,309685,724823
+73725267,Crieff Road,Crieff Road,Hillyland,MKD,309702,724805
+73724546,Unity Terrace,Crieff Road,Hillyland,MKD,310468,724524
+73723674,Unity Terrace,Crieff Road,Hillyland,MKD,310510,724526
+73724528,Royal Bank of Scotland,Dunkeld Road,Muirton,MKD,311154,724303
+73724854,Royal Bank of Scotland,Dunkeld Road,Muirton,MKD,311246,724209
+73724848,Retail Park,Dunkeld Road,Perth,MKD,311330,724099
+73724234,Barrack Street,Barrack Street,Perth,MKD,311395,723987
+73723645,High Street,HIGH STREET,Perth,MKD,311343,723681
+73723642,High Street,High Street,Perth,MKD,311481,723656
+73723648,High Street,High Street,Perth,MKD,311594,723639
+73724865,Fairfield,Tulloch Road,Tulloch,MKD,310250,724643
+73724363,Fairfield,Tulloch Road,Tulloch,MKD,310177,724689
+73724953,Bruce Crescent,Tulloch Road,Tulloch,MKD,310064,724807
+73724379,Bruce Crescent,Tulloch Road,Tulloch,MKD,310003,724834
+73724247,Tulloch Terrace,Tulloch Road,Tulloch,MKD,309941,725146
+73724253,Tulloch Terrace,Tulloch Road,Tulloch,MKD,309920,725149
+73725279,Primary School,Primrose Crescent,Tulloch,MKD,309862,725297
+73723436,Primary School,Primrose Crescent,Tulloch,MKD,309863,725367
+73724389,Sandeman Court,Primrose Crescent,Tulloch,MKD,309757,725566
+73724923,Sandeman Court,Primrose Crescent,Tulloch,MKD,309753,725553
+73724239,Newton Place,Primrose Crescent,Tulloch,MKD,309571,725535
+73723967,Newton Place,Primrose Crescent,Tulloch,MKD,309648,725478
+73723978,Alma Avenue,Alma Avenue,Aberfeldy,MKD,285115,748786
+73724343,Pullar Terrace,Primrose Crescent,Tulloch,MKD,309459,725166
+73725239,Pullar Terrace,Primrose Crescent,Tulloch,MKD,309464,725158
+73724696,Primrose Crescent,Primrose Crescent,Tulloch,MKD,309431,725026
+73723459,Garth Avenue,Strathtay Road,Letham,MKD,309314,724763
+73725297,Milton Road,STRATHTAY ROAD,Letham,MKD,309229,724791
+73723968,Newton House,Primrose Crescent,Tulloch,MKD,309613,725306
+73723656,High Street,High Street,Perth,MKD,311613,723638
+73723457,Garth Avenue,Strathtay Road,Letham,MKD,309334,724769
+73725324,Strathtay Road,Strathtay Road,Letham,MKD,309471,724744
+73723453,Strathtay Road,Strathtay Road,Letham,MKD,309510,724761
+73725325,Fortingall Place,Strathtay Road,Letham,MKD,309636,724671
+73762582,Primary School,ALLT MOR CRESCENT,Kinloch Rannoch,CUS,266292,758784
+73725328,Appin Terrace,Struan Road,Letham,MKD,309587,724466
+73723274,Primary School,Struan Road,Letham,MKD,309511,724476
+73725283,Primary School,Struan Road,Letham,MKD,309416,724481
+73723256,Our Ladys Primary School,Struan Road,Letham,MKD,309266,724514
+73725274,Our Ladys Primary School,Struan Road,Letham,MKD,309156,724521
+73723252,Struan Road,Struan Road,Letham,MKD,309037,724548
+73724548,Cluny Terrace,Newhouse Road,Letham,MKD,308937,724488
+73724796,Fortingall Place,Strathtay Road,Letham,MKD,309658,724648
+73723768,Cluny Terrace,Newhouse Road,Letham,MKD,308923,724476
+73734242,Lettoch Road,West Moulin Road,Pitlochry,CUS,293921,758369
+73724689,Campsie Road,Campsie Road,Burghmuir,MKD,309005,723989
+73725278,Campsie Road,Campsie Road,Burghmuir,MKD,308984,723974
+73723748,Moulin Crescent,Newhouse Road,Burghmuir,MKD,308874,723918
+73723756,DEL-Newhouse Road,Newhouse Road,Perth,MKD,308898,724228
+73723752,Kenmore Terrace,Campsie Road,Letham,MKD,309153,724293
+73724824,Kenmore Terrace,Campsie Road,Letham,MKD,309165,724313
+73723626,Welcome Inn,Rannoch Road,Letham,MKD,309238,724252
+73725265,Welcome Inn,Rannoch Road,Letham,MKD,309214,724243
+73723246,Letham Day Centre,Rannoch Road,Letham,MKD,309412,724211
+73725269,Day Centre,Rannoch Road,Letham,MKD,309469,724185
+73745879,Lettoch Terrace,West Moulin Road,Pitlochry,CUS,294090,758473
+73723284,Dunsinane Drive,Rannoch Road,Letham,MKD,309656,724140
+73725295,Dunsinane Drive,Rannoch Road,Letham,MKD,309665,724127
+73723797,Kingswell Terrace,Tweedsmuir Road,Letham,MKD,309903,724200
+73725327,Mercer Terrace,Tweedsmuir Road,Letham,MKD,309738,724295
+73723279,Mercer Terrace,Tweedsmuir Road,Letham,MKD,309675,724295
+73723259,Marlee Road,Tweedsmuir Road,Letham,MKD,309400,724345
+73725293,Marlee Road,Tweedsmuir Road,Letham,MKD,309396,724337
+73725298,Campsie Road,Tweedsmuir Road,Letham,MKD,309248,724369
+73723268,Campsie Road,Tweedsmuir Road,Letham,MKD,309215,724365
+73723265,Tweedsmuir Road,Tweedsmuir Road,Letham,MKD,308949,724414
+73745897,Knockhard Road,West Moulin Road,Pitlochry,CUS,294223,758792
+73723264,Kingswell Place,Kingswell Terrace,Letham,MKD,309986,724176
+73723263,Kingswell Terrace,Kingswell Terrace,Letham,MKD,310141,724156
+73725292,Goodlyburn Terrace,Rannoch Road,Letham,MKD,310011,724072
+73725289,Rannoch Road,Rannoch Road,Letham,MKD,310195,724063
+73724728,Rannoch Road,Rannoch Road,Letham,MKD,310352,724248
+73724726,Rannoch Road,Rannoch Road,Letham,MKD,310346,724211
+73723586,Hillcrest Avenue,Unity Terrace,Perth,MKD,310557,724263
+73724723,Church Street,Feus Road,Perth,MKD,310776,724197
+73724769,Wellshill Cemetery,Feus Road,Perth,MKD,310835,724074
+73723743,Wellshill Cemetery,Feus Road,Perth,MKD,310824,724077
+73734246,High School,East Moulin Road,Pitlochry,CUS,294552,758633
+73723583,Longcauseway,Longcauseway,Perth,MKD,311246,723786
+73725284,Longcauseway,Longcauseway,Perth,MKD,311267,723770
+73724849,Letham Road,Letham Road,Letham,MKD,309948,724049
+73724392,Letham Road,Letham Road,Letham,MKD,309933,724045
+73723579,Goodlyburn Place,Jeanfield Road,Letham,MKD,310135,723909
+73725323,Goodlyburn Place,Jeanfield Road,Letham,MKD,310153,723888
+73723563,Hawarden Terrace,Jeanfield Road,Perth,MKD,310379,723832
+73723569,Hawarden Terrace,Jeanfield Road,Perth,MKD,310409,723836
+73725282,Rose Crescent,Jeanfield Road,Perth,MKD,310513,723808
+73723567,Spens crescent,Jeanfield Road,Perth,MKD,310610,723828
+73734235,Tomcroy Terrace,East Moulin Road,Pitlochry,CUS,294578,758412
+73724758,Coach House Court,Riggs Road,Perth,MKD,310834,723697
+73723736,Coach House Court,Riggs Road,Perth,MKD,310831,723665
+73724897,Letham Road,Burghmuir Road,Burghmuir,MKD,310020,723913
+73725285,Fairies Road,Burghmuir Road,Burghmuir,MKD,309822,723915
+73723576,Fairies Road,Burghmuir Road,Burghmuir,MKD,309831,723927
+73725286,Craiglea Road,Muirend Road,Burghmuir,MKD,309560,723622
+73723636,Mountview Road,Muirend Road,Burghmuir,HAR,309287,723640
+73723625,Ambulance Depot,Muirend Road,Burghmuir,MKD,308875,723699
+73745874,Darach Road,Higher Oakfield,Pitlochry,CUS,294421,758185
+73723737,Muirend Road,Hillend Road,Burghmuir,MKD,308856,723755
+73725342,Cargill Place,Burghmuir Road,Burghmuir,MKD,309557,723921
+73723595,Cargill Place,Burghmuir Road,Burghmuir,MKD,309542,723931
+73723594,Firbank Road,Burghmuir Road,Burghmuir,MKD,309344,723930
+73725268,Firbank Road,Burghmuir Road,Burghmuir,MKD,309314,723916
+73725272,Mavisbank Gardens,Burghmuir Road,Burghmuir,MKD,309131,723865
+73723493,Mavisbank Gardens,Burghmuir Road,Burghmuir,MKD,309104,723866
+73725275,Newhouse Road,Burghmuir Road,Burghmuir,MKD,308919,723816
+73723487,Newhouse Road,Burghmuir Road,Burghmuir,MKD,308913,723831
+73724385,Soutar Crescent,West Mains Avenue,Hillend,MKD,308669,723851
+73745895,Well Brae,Toberargan Road,Pitlochry,CUS,294128,758200
+73724525,Soutar Crescent,West Mains Avenue,Hillend,MKD,308673,723865
+73724943,Ferguson Drive,West Mains Avenue,Western Edge,MKD,308489,724229
+73723846,Ferguson Drive,West Mains Avenue,Western Edge,MKD,308479,724239
+73724636,Trinafour,West Mains Avenue,Western Edge,MKD,308618,724495
+73723837,Trinafour,West Mains Avenue,Western Edge,MKD,308616,724541
+73723479,Grange Terrace,Grange Terrace,Western Edge,MKD,308847,724755
+73725296,Grange Terrace,Grange Terrace,Western Edge,MKD,308892,724748
+73724596,Traquair Gardens,Fittis Road,Western Edge,MKD,308430,723506
+73724874,Alder Drive,Alder Drive,Oakbank,MKD,308692,723275
+73724543,Perth High School,OAKBANK ROAD,Oakbank,MKD,309549,723007
+73724894,Ross Avenue,Oakbank Road,Cherrybank,MKD,309718,722901
+73724534,Ross Avenue,Oakbank Road,Cherrybank,MKD,309736,722876
+73724853,Oakbank Place,Oakbank Road,Cherrybank,MKD,309871,722790
+73724584,Cleeve Drive,Oakbank Place,Cherrybank,MKD,309885,722677
+73724547,Oakbank Place,Oakbank Road,Cherrybank,MKD,309867,722780
+73723854,Oakbank Crescent,Fairies Road,Oakbank,MKD,309679,723039
+73723853,Viewlands Road,Fairies Road,Oakbank,MKD,309702,723179
+73725276,Muirend Avenue,Viewlands Road West,Oakbank,MKD,309604,723278
+73725685,Community Centre,Viewlands Road West,Oakbank,MKD,309387,723339
+73723526,Community Centre,Viewlands Road West,Oakbank,MKD,309373,723347
+73725625,Elm Lane,Viewlands Road West,Oakbank,MKD,309235,723335
+73723527,Elm Lane,VIEWLANDS ROAD WEST,Oakbank,MKD,309189,723368
+73725626,Beechgrove Drive,Viewlands Road West,Hillend,MKD,308980,723477
+73753262,Hillcrest Avenue,Unity Terrace,Perth,MKD,310534,724277
+73728254,Hill Farm Cottages,Low Carse Road,Errol,CUS,322758,721601
+73725628,Cedar Place,Cedar Drive,Oakbank,MKD,308539,723104
+73723532,Holly Terrace,Oakbank Road,Oakbank,MKD,308952,723288
+73723534,Rosslyn House,Glasgow Road,Perth,MKD,310703,723554
+73725632,Elibank Street,York Place,Perth,MKD,311183,723507
+73723562,York Place,York Place,Perth,MKD,311387,723507
+73725647,York Place,York Place,Perth,MKD,311381,723492
+73723859,Commercial Street,Dundee Road,Bridgend,MKD,312332,723667
+73727965,Errol Park Estate,Low Carse Road,Errol,CUS,324511,722344
+73723862,Hatton Way,Hatton Way,Kinnoull,MKD,313283,723515
+73723543,Langley Place,Langley Drive,Kinnoull,MKD,313295,723749
+73723864,Langley Drive,Muirhall Road,Kinnoull,MKD,313292,723851
+73724565,Murray Royal Hospital,Muirhall Road,Kinnoull,CUS,312927,723886
+73723852,Murray Royal Hospital,Muirhall Road,Kinnoull,MKD,312922,723876
+73723868,Lochie Brae,Lochie Brae,Bridgend,MKD,312331,723945
+73724976,Strathmore Street,Strathmore Street,Bridgend,MKD,312319,724279
+73724873,Kinnoull Hill,Corsie Hill Road,Kinnoull,MKD,313537,723572
+73724872,Bowerswell Road,Gowrie Street,Bridgend,MKD,312334,723773
+73725635,Canal Street,Canal Street,Perth,MKD,311994,723349
+73724967,Hospital Street,Hospital Street,Perth,MKD,311455,723436
+73723545,Park and Ride,Park and Ride Site,Broxden,MKD,308718,722594
+73725637,Lamberkine Drive,Glasgow Road,Broxden,MKD,308773,722755
+73723547,Lamberkine Drive,Glasgow Road,Broxden,MKD,308779,722764
+73725639,Braeside Gardens,Glasgow Road,Cherrybank,MKD,310303,722714
+73723549,Braeside Gardens,Glasgow Road,Cherrybank,MKD,310328,722751
+73723489,Murray Place,Glasgow Road,Viewlands,MKD,310465,722992
+73734236,Longleys,A94,Meigle,CUS,326657,743765
+73723536,Elibank Street,York Place,Perth,MKD,311197,723522
+73724657,South Methven Street,South Methven Street,Perth,MKD,311560,723566
+73724652,Scott Street,Scott Street,Perth,MKD,311675,723394
+73723478,Tesco,Crieff Road,Hillyland,MKD,308868,724863
+73724678,DEL-Carpenter Court,Kinnoull Street,Perth,MKD,311661,723838
+73724679,St Johns RC Church,Melville Street,Perth,MKD,311519,723983
+73723826,St Johns RC Church,Melville Street,Perth,MKD,311489,723999
+73724683,Balhousie Avenue,Balhousie Street,Muirton,MKD,311318,724287
+73723827,Balhousie Avenue,Balhousie Street,Muirton,MKD,311319,724264
+73724685,Premier Store,Balhousie Street,Muirton,MKD,311202,724542
+73745896,Longleys,A94,Meigle,CUS,326677,743762
+73723828,Premier Store,Balhousie Street,Muirton,MKD,311180,724627
+73723829,Balhousie Street,Balhousie Street,Muirton,MKD,311161,724808
+73724686,Balhousie Street,Balhousie Street,Muirton,MKD,311170,724827
+73723832,Ainslie Gardens East,Ainslie Gardens,Perth,MKD,311227,724879
+73724637,Ainslie Gardens East,Ainslie Gardens,Muirton,MKD,311219,724886
+73723834,Sandpiper Gardens,Malvina Place,Perth,MKD,311302,724991
+73724626,Sandpiper Gardens,Malvina Place,Muirton,MKD,311314,724983
+73723482,Day Centre,Gowans Terrace,Perth,MKD,311192,725108
+73723483,Osprey Drive,Gowans Terrace,Muirton,MKD,311019,725089
+73725646,Osprey Drive,Gowans Terrace,Muirton,MKD,311000,725078
+73745875,Mains of Camno,Meigle Road,Ardler,CUS,327204,742717
+73723825,Water Works,Bute Drive,North Muirton,MKD,310781,725154
+73724627,Water Works,Bute Drive,North Muirton,MKD,310791,725118
+73723839,Lewis Place,Bute Drive,North Muirton,MKD,310858,725393
+73724629,Lewis Place,Bute Drive,North Muirton,MKD,310889,725406
+73723842,Crammond Place,Bute Drive,North Muirton,MKD,310917,725599
+73724632,Crammond Place,Bute Drive,North Muirton,MKD,310888,725687
+73723843,Rona Court,Bute Drive,North Muirton,MKD,310631,725872
+73724634,Rona Court,Bute Drive,North Muirton,MKD,310572,725946
+73724879,Brora Court,Bute Drive,North Muirton,MKD,310384,725904
+73724294,Brora Court,Bute Drive,North Muirton,MKD,310419,725825
+73745894,Mains of Camno,Meigle Road,Ardler,CUS,327231,742729
+73724893,Jura Street,Argyll Road,North Muirton,MKD,310386,725521
+73724535,Jura Street,Argyll Road,North Muirton,MKD,310384,725536
+73723484,Ainslie Gardens West,Ainslie Gardens,Muirton,MKD,311037,724905
+73725489,Ainslie Gardens West,Ainslie Gardens,Muirton,MKD,311014,724891
+73725486,Kings Place,Kings Place,Perth,MKD,311434,723127
+73723847,St Leonards Bank,St Leonards Bank,Perth,MKD,311380,723081
+73723485,Post Office,St Leonards Bank,Craigie,MKD,311234,722878
+73724654,Post Office,St Leonards Bridge,Craigie,MKD,311235,722821
+73724864,Glenearn Community Campus,Glenearn Road,Craigie,MKD,311246,722531
+73724364,Glenearn Community Campus,Glenearn Road,Craigie,MKD,311253,722508
+73734239,Visitor Centre,B8079,Killiecrankie,CUS,291769,762619
+73724857,Glenearn Carpets,Glenearn Road,Moncreiffe,MKD,311370,722384
+73724932,Edwards Engineering,Glenearn Road,Moncreiffe,MKD,311413,722168
+73725634,Glenlyon Road,Glenlyon Road,Moncreiffe,MKD,311361,722036
+73724647,Craigie Road,Craigie Road,Moncreiffe,MKD,311413,721892
+73724645,Glenfarg Terrace,Glengarry Road,Moncreiffe,MKD,311477,721520
+73723923,Glenfarg Terrace,Glengarry Road,Moncreiffe,MKD,311477,721500
+73724946,Quarry,Gleneagles Road,Moncreiffe,MKD,311286,721564
+73724376,Quarry,Gleneagles Road,Moncreiffe,MKD,311281,721558
+73723836,Glendevon Road,Glenlochay Road,Moncreiffe,MKD,310855,721827
+73723876,Glenlochy Road,Glenlochay Road,Moncreiffe,MKD,310896,721951
+73723938,Craigie Knowes Road,Craigie Knowes Road,Moncreiffe,MKD,310930,722064
+73724649,Glendevon Road,Glenalmond Terrace,Moncreiffe,MKD,310986,721828
+73723939,Craigie Knowes Road,Craigie Knowes Road,Moncreiffe,MKD,310856,722112
+73723942,Craigie Knowes Avenue,Craigie Knowes Road,Moncreiffe,MKD,310875,722233
+73724293,Craigie Knowes Avenue,Craigie Knowes Road,Moncreiffe,MKD,310876,722262
+73724374,Knowelea Terrace,Darnhall Drive,Craigie,MKD,310915,722531
+73724957,Knowelea Terrace,Darnhall Drive,Craigie,MKD,310895,722576
+73724287,Abbot Crescent,Darnhall Drive,Craigie,MKD,310825,722674
+73724958,Abbot Crescent,Darnhall Drive,Craigie,MKD,310821,722700
+73724938,Needless Road,Wilson Street,Craigie,MKD,310874,722942
+73724375,Needless Road,Wilson Street,Craigie,MKD,310886,722946
+73724393,Parish Church,Wilson Street,Craigie,MKD,310957,722798
+73724947,Parish Church,Wilson Street,Craigie,MKD,310963,722806
+73725479,Priory Place,Abbot Street,Craigie,MKD,311174,722846
+73724283,Comleybank,Pitcullen Crescent,Gannochy,MKD,312394,724561
+73724282,Comleybank,Pitcullen Crescent,Gannochy,MKD,312416,724630
+73725238,Fitzroy Terrace,Pitcullen Crescent,Gannochy,MKD,312586,724736
+73724267,Fitzroy Terrace,Pitcullen Crescent,Gannochy,MKD,312636,724773
+73724259,Whinniemuir Cottages,Scone Road,Gannochy,MKD,312909,724939
+73725249,Whinniemuir Cottages,Scone Road,Gannochy,MKD,312888,724912
+73724262,Murrayshall Road End,Perth Road,Scone,MKD,313151,725218
+73725235,Murrayshall Road End,Perth Road,Scone,MKD,313155,725202
+73724263,Cemetery,Perth Road,Scone,MKD,313398,725591
+73725256,Cemetery,Perth Road,Scone,MKD,313397,725571
+73724987,Strathmore Street,Strathmore Street,Bridgend,MKD,312327,724395
+73724989,Bonhard Road,Perth Road,Scone,MKD,313516,725837
+73724276,Bonhard Road,Perth Road,Scone,MKD,313510,725862
+73724378,RDM Institute,Mansfield Road,Scone,MKD,313619,726237
+73724928,Hanover Gardens,Stormont Road,Scone,MKD,313098,726577
+73724387,Hanover Gardens,Stormont Road,Scone,MKD,313088,726567
+73724954,Stormont Road,Stormont Road,Scone,MKD,313223,726549
+73724653,Greystanes,Sandy Road,Scone,MKD,313331,726424
+73724675,Catmoor Road,Sandy Road,Scone,MKD,313417,726160
+73724386,Corrie Place,Sandy Road,Scone,MKD,313439,726091
+73724942,Corrie Place,Sandy Road,Scone,MKD,313458,726063
+73724273,Abbey Terrace,Abbey Road,Scone,MKD,313537,726167
+73725482,Scone Palace,Queens Drive,Old Scone,MKD,311519,726446
+73723945,Kinnoull Street,Kinnoull Street,Perth,MKD,311661,723863
+73724963,Upper Springland,Isla Road,Bridgend,MKD,311950,725127
+73724356,Upper Springland,Isla Road,Bridgend,MKD,311941,725118
+73724964,Tayside Nursing Home,Isla Road,Bridgend,MKD,312215,724299
+73724358,Tayside Nursing Home,Isla Road,Bridgend,MKD,312207,724298
+73724329,Bowerswell Road,Bowerswell Road,Bridgend,HAR,312413,723714
+73725483,Inveralmond House,Auld Mart Road,North Muirton,MKD,309812,725879
+73723947,Denmarkfield,A9,Luncarty,MKD,309328,728707
+73723964,Visitor Centre,B867,Bankfoot,MKD,307264,734341
+73724589,Visitor Centre,B867,Bankfoot,MKD,307275,734353
+73724598,Lyndale,Perth Road,Bankfoot,MKD,307071,734751
+73723949,Innewan Place,Perth Road,Bankfoot,MKD,306980,735026
+73723954,Atholl Hotel,Main Street,Bankfoot,MKD,306660,735533
+73724595,Atholl Hotel,Main Street,Bankfoot,MKD,306653,735562
+73723956,Scotstoun,Dunkeld Road,Bankfoot,MKD,306495,735813
+73724746,Scotstoun,Dunkeld Road,Bankfoot,MKD,306526,735788
+73724592,Road End,B867,Byres of Murthly,MKD,305222,738813
+73724576,Inchewan,Perth Road,Birnam,MKD,303656,741461
+73723958,Inchewan,Perth Road,Birnam,MKD,303651,741448
+73723959,Laiken,Perth Road,Birnam,MKD,303361,741628
+73723925,Royal School Of Dunkeld,Perth Road,Birnam,MKD,302853,742097
+73724583,Royal School Of Dunkeld,Perth Road,Birnam,MKD,302829,742115
+73723494,Bruce Gardens,Bridge Street,Dunkeld,MKD,302672,742311
+73725484,Bruce Gardens,Bridge Street,Dunkeld,MKD,302681,742296
+73725485,Royal Dunkeld Hotel,Atholl Street,Dunkeld,MKD,302671,742726
+73724579,Rose Cottage,A9,Inver,MKD,301713,742304
+73723892,Rose Cottage,A9,Inver,MKD,301616,742286
+73724648,Bus Bay,A9,Ballinluig,MKD,297605,752823
+73723894,Bus Bay,A9,Ballinluig,MKD,297658,752546
+73723895,Level Crossing,A9,Moulinearn,MKD,297012,754768
+73724829,Level Crossing,A9,Moulinearn,MKD,297031,754784
+73723897,Aldour,PERTH ROAD,Pitlochry,MKD,294841,757511
+73728267,Gowrie Farm,B9099,Stanley,CUS,310374,731459
+73727969,House No 159,Glenalmond Road,Rattray,MKD,318513,745930
+73729378,Visitor Centre,B8079,Killiecrankie,MKD,291748,762629
+73727438,Airport,Nugent Drive,Scone,HAR,315417,727742
+73728757,Brickworks,Inchcoonans Road,Inchcoonans,CUS,323893,723407
+73735389,Medical Centre,Medical Centre,Pitlochry,MKD,293765,757996
+73725623,Newholme Avenue,Atholl Road,Pitlochry,MKD,294211,757976
+73723495,Newholme Avenue,Atholl Road,Pitlochry,MKD,294193,757998
+73723497,Well Brae,Toberargan Road,Pitlochry,MKD,294166,758206
+73724952,Darach Road,Higher Oakfield,Pitlochry,MKD,294411,758206
+73723936,Tomcroy Terrace,East Moulin Road,Pitlochry,MKD,294570,758397
+73723879,High School Bus Park,off East Moulin Road,Pitlochry,MKD,294493,758811
+73724983,Knockard Road,West Moulin Road,Pitlochry,MKD,294223,758755
+73724979,Lettoch Terrace,West Moulin Road,Pitlochry,MKD,294085,758448
+73724972,Town Hall,West Moulin Road,Pitlochry,MKD,293942,758362
+73723927,Inn,A827,Ballinluig,MKD,297736,752604
+73724837,Tulliemet Road End,St Cedd's Road,Ballinluig,MKD,297614,752876
+73724843,Denmarkfield,A9,Luncarty,MKD,309324,728468
+73724838,Bute Drive,Dunkeld Road,North Muirton,MKD,310114,725668
+73723929,Bute Drive,Dunkeld Road,North Muirton,MKD,310253,725452
+73724835,Duncansby Way,Dunkeld Road,Muirton,MKD,310669,724964
+73723932,Duncansby Way,Dunkeld Road,Muirton,MKD,310658,724939
+73724842,ASDA,Dunkeld Road,Muirton,MKD,310936,724619
+73723782,ASDA,Dunkeld Road,Muirton,MKD,310922,724595
+73723934,Manse Road,Dundee Road,Barnhill,MKD,312382,723319
+73724846,Manse Road,Dundee Road,Barnhill,MKD,312394,723317
+73724927,Fairmount Road,Dundee Road,Barnhill,MKD,312500,723003
+73723848,Fairmount Road,Dundee Road,Barnhill,MKD,312491,722918
+73724384,Branklyn Gardens,Dundee Road,Barnhill,MKD,312486,722778
+73723564,Road End,A90,Kinfauns,MKD,316566,721938
+73723476,Road End,A90,Inchyra,MKD,318544,720977
+73723593,Glendoick Garden Centre,A90,Glendoick,MKD,321598,723339
+73725492,Glendoick Garden Centre,A90,Glendoick,MKD,321652,723358
+73723596,Drums Of Ardgaith,A90,Glendoick,MKD,322078,723759
+73723597,North Murie,A90,Glendoick,MKD,322796,724216
+73725493,North Murie,A90,Glendoick,MKD,322677,724087
+73723598,Inchcoonans Road End,A90,Inchmichael,MKD,323095,724451
+73725494,Inchcoonans Road End,A90,Inchmichael,MKD,323053,724373
+73723623,Megginch Castle,A90,Inchmichael,CUS,323441,724956
+73723638,West Inchmichael Cottages,A90,Inchmichael,MKD,323993,725738
+73725495,Horn Milk Bar,A90,Inchmichael,MKD,324626,726330
+73723592,Horn Milk Bar,A90,Inchmichael,MKD,324723,726465
+73723627,Westown Road End,A90,Inchmichael,MKD,325183,726771
+73723628,Westown Road End,A90,Inchmichael,MKD,325272,726870
+73723629,Middlebank,A90,Inchmichael,MKD,325782,727179
+73723634,Meadowview Drive,B953,Inchture,MKD,327757,728559
+73723635,DEL-Meadowview,B953,Inchture,MKD,327757,728560
+73723632,Middlebank,A90,Inchmichael,MKD,325915,727300
+73725496,Meadowview Drive,B953,Inchture,MKD,327795,728578
+73724725,Glebe Park,B953,Inchture,MKD,328045,728927
+73723738,DEL-Glebe Park,B953,Inchture,MKD,328028,728931
+73723624,Community Centre,Low Carse Road,St Madoes,MKD,319709,721112
+73725636,Cottown,Low Carse Road,St Madoes,MKD,320441,721181
+73725686,Leetown,Low Carse Road,St Madoes,MKD,320854,721339
+73725689,School Wynd,High Street,Errol,MKD,325159,722850
+73725692,Primary School,Station Road,Errol,MKD,325411,722983
+73725693,Viewlands,Station Road,Errol,MKD,325524,723143
+73723568,Viewlands,Station Road,Errol,MKD,325569,723225
+73723589,Old Knapp Road End,A90,Longforgan,MKD,329506,729900
+73723575,Rosebank Cottage,Main Street,Longforgan,MKD,330748,730044
+73725729,Rosebank Cottage,Main Street,Longforgan,MKD,330773,730032
+73725369,Hotel,Main Street,Longforgan,MKD,331098,730013
+73723272,Hotel,Main Street,Longforgan,MKD,331161,730030
+73725698,Station Road,Main Street,Longforgan,MKD,331293,730061
+73724752,Mary Findlay Drive,Janet Forbes Avenue,Longforgan,MKD,330426,729792
+73723728,Mary Findlay Drive,Janet Forbes Avenue,Longforgan,MKD,330423,729783
+73723582,DEL-The Drive,Janet Forbes Avenue,Longforgan,MKD,330462,729620
+73725724,DEL-The Drive,Janet Forbes Avenue,Longforgan,MKD,330465,729616
+73724768,Woodland Way,The Shore,Kingoodie,MKD,334096,729364
+73723793,Woodland Way,The Shore,Kingoodie,MKD,334095,729372
+73725727,Carse Place,Errol Road,Invergowrie,MKD,334445,729699
+73724782,Carse Place,Errol Road,Invergowrie,MKD,334452,729719
+73723783,Station Road,Errol Road,Invergowrie,MKD,334530,729780
+73724727,Station Road,Errol Road,Invergowrie,MKD,334550,729780
+73723784,Dryburgh Terrace,Errol Road,Invergowrie,MKD,334623,730070
+73724693,Dryburgh Terrace,Errol Road,Invergowrie,MKD,334633,730091
+73723785,Primary School,Errol Road,Invergowrie,MKD,334655,730317
+73724697,Primary School,Errol Road,Invergowrie,MKD,334661,730316
+73723585,Greystane Road,Main Street,Invergowrie,MKD,335051,730308
+73725697,Greystane Road,Main Street,Invergowrie,MKD,335062,730299
+73723587,Invergowrie Inn,Main Street,Invergowrie,MKD,334619,730418
+73725649,Invergowrie Inn,Main Street,Invergowrie,MKD,334631,730403
+73725652,Star Inn,A90,Invergowrie,MKD,333165,730488
+73723462,Star Inn,A90,Invergowrie,MKD,333172,730519
+73725653,Castle Brae,A85,East Huntingtower,MKD,308282,724879
+73723257,Perth Mart,A85,East Huntingtower,MKD,308321,724893
+73723824,Balmanno Park,Wicks O'Baiglie Road,Kintillo,MKD,313373,717753
+73724692,Kintillo Road,Wicks O'Baiglie Road,Kintillo,MKD,313420,717596
+73723749,Kintillo Road,Wicks O'Baiglie Road,Kintillo,MKD,313421,717566
+73725656,Kintillo Place,Kintillo Road,Kintillo,MKD,313370,717482
+73725657,Kintillo Place,Kintillo Road,Kintillo,MKD,313359,717470
+73723267,Paradise Avenue,Kintillo Road,Kintillo,MKD,313185,717434
+73725683,Paradise Avenue,Kintillo Road,Kintillo,MKD,313189,717427
+73725648,Pitkeathly Villas,B935,Bridge of Earn,CUS,311476,717956
+73723286,Pitkeathly Villas,B935,Bridge of Earn,CUS,311555,717965
+73724868,Road End,B935,Forteviot,MKD,304726,717591
+73724536,Road End,B935,Forteviot,CUS,304712,717584
+73723278,Broomhill,B934,Forteviot,CUS,304187,717143
+73725674,Broomhill,B934,Forteviot,CUS,304192,717138
+73723282,Croft Place,Perth Road,Dunning,MKD,302060,714603
+73723795,Croft Place,Perth Road,Dunning,MKD,302050,714551
+73723796,St Serfs Church,Tron Square,Dunning,MKD,301865,714470
+73724787,St Serfs Church,Perth Road,Dunning,MKD,301889,714477
+73724984,Wester Balgour,B9141,Broom of Dalreoch,MKD,300581,716546
+73723798,Wester Balgour,B9141,Broom of Dalreoch,MKD,300579,716554
+73723823,Oak Tree Cottage,B9141,Broom of Dalreoch,MKD,300250,716869
+73723759,Oak Tree Cottage,B9141,Broom of Dalreoch,MKD,300243,716864
+73725678,Millhaugh,B8062,Dunning,CUS,300806,714165
+73723283,Millhaugh,Auchterarder Road,Dunning,CUS,300802,714177
+73725679,Rossiebank,Auchterarder Road,Dunning,CUS,299388,713633
+73723285,Rossiebank,B8062,Dunning,CUS,299386,713618
+73725682,Pairney,Auchterarder Road,Dunning,CUS,297648,713231
+73725452,Pairney,B8062,Dunning,CUS,297661,713221
+73725345,Broadfold Road End,B8062,Auchterarder,CUS,296867,713156
+73723659,Broadfold Road End,B8062,Auchterarder,CUS,296867,713180
+73723243,Ruthven Park,Feus,Auchterarder,MKD,295636,713444
+73725478,Ruthven Park,A824,Auchterarder,MKD,295643,713435
+73723235,Darnley Hill,Feus,Auchterarder,MKD,295248,713256
+73725372,Darnely Hill,Feus,Auchterarder,MKD,295241,713243
+73725373,Abbey Road,High Street,Auchterarder,MKD,294945,713071
+73723238,Caerlaverock,C457,Muthill,MKD,289379,716615
+73725376,Caerlaverock,C457,Muthill,MKD,289384,716602
+73725393,Knappilands,C458,Muthill,MKD,289882,716096
+73723239,Knappilands,C458,Muthill,MKD,289892,716101
+73725252,Loaninghead Flyover Southbound,A9,Auchterarder,MKD,292516,709988
+73724264,Loaninghead Flyover,A823,Auchterarder,MKD,292466,710058
+73725368,Drumcairn Road End,A9,Blackford,MKD,288372,708557
+73724969,Longfauld,A9,Blackford,MKD,287916,708534
+73723258,Longfauld,A9,Blackford,MKD,287963,708566
+73725259,DEL-Dam of Quoigss,A9,Greenloaning,MKD,283690,707074
+73725242,Woodside Cottage,A9,Mains of Balhaldie,MKD,281936,705905
+73724325,Woodside Cottage,A9,Mains of Balhaldie,MKD,281972,705981
+73725254,Balhaldie Filling Station,A9,Mains of Balhaldie,MKD,281295,705256
+73724327,Balhaldie Filling Station,A9,Mains of Balhaldie,MKD,281337,705346
+73724269,Sherrifmuir Close,Millhill Rd,Greenloaning,MKD,283245,707186
+73725383,Sherrifmuir Close,C479,Greenloaning,MKD,283295,707166
+73723249,Coaching Inn,Moray Street,Blackford,MKD,289643,708925
+73725386,Turning Circle,Moray Street,Blackford,MKD,289937,709125
+73725387,Church,Moray Street,Blackford,MKD,289875,709073
+73723253,Gleneagles Station Road End,A9,Auchterarder,MKD,292785,710985
+73723254,St Margarets Crescent,Orchil Road,Auchterarder,MKD,293648,712329
+73725392,St Margarets Crescent,Orchil Road,Auchterarder,MKD,293647,712323
+73723289,Orchil Crescent,Orchil Road,Auchterarder,MKD,293265,712248
+73724695,Orchil Crescent,Orchil Road,Auchterarder,MKD,293266,712238
+73723234,Drummond Avenue,Orchil Road,Auchterarder,MKD,293090,712190
+73725356,Drummond Avenue,Orchil Road,Auchterarder,MKD,293070,712170
+73725353,The Paddock,Orchil Road,Auchterarder,MKD,292804,712067
+73725378,The Paddock,Orchil Road,Auchterarder,MKD,292804,712058
+73724357,Murray Road,Angus Road,Scone,MKD,313877,726503
+73724352,Murray Road,Angus Road,Scone,MKD,313899,726566
+73725262,Perth Airport,Angus Road,Scone,MKD,315421,727679
+73724345,Perth Airport,Angus Road,Scone,MKD,315437,727696
+73724974,Pitroddie Road End,A94,Scone,MKD,316001,727840
+73724349,Pitroddie Road End,A94,Scone,MKD,316025,727887
+73723975,Laurieston,A94,Balbeggie,MKD,316962,729584
+73724794,Laurieston,A94,Balbeggie,MKD,316952,729583
+73724786,Rosefield,A94,Balbeggie,MKD,317376,731343
+73724362,Rosefield,A94,Balbeggie,MKD,317362,731349
+73723438,Croftanrigh,Thorngreen Road,Kinrossie,MKD,318275,732504
+73723439,Croftanrigh,Thorngreen Road,Kinrossie,CUS,318280,732492
+73725347,Bus Shelter,C441,Saucher,MKD,319767,733145
+73725348,Gray Park,High Street,Burrelton,MKD,319967,736795
+73723454,Gray Park,High Street,Burrelton,MKD,319965,736848
+73724836,Hall Crescent,Main Road,Woodside,MKD,320215,737319
+73725352,Station Road,Main Road,Woodside,MKD,320243,737404
+73725354,Lochty,A85,Almondbank,MKD,306631,725134
+73723437,Lochty,A85,Almondbank,MKD,306578,725141
+73723985,Lochty Industrial Est,MAIN STREET,Almondbank,MKD,306597,725178
+73724732,Lochty Industrial Est,Main Street,Almondbank,MKD,306568,725216
+73724729,RN Stores,Main Street,Almondbank,MKD,306617,725639
+73723984,RN Stores,Main Street,Almondbank,MKD,306607,725602
+73724869,Gellyburn Road,Gellyburn Road,Almondbank,MKD,306663,726456
+73723965,Bridgeton Store,Bridgeton Brae,Almondbank,MKD,306527,726389
+73723982,Roman Road,Lumsden Crescent,Almondbank,MKD,306675,726284
+73723979,Bridgeton Store,Bridgeton Brae,Almondbank,MKD,306514,726395
+73723976,Pigeon Rock,Bridgeton Brae,Almondbank,MKD,306416,726572
+73727686,Pigeon Rock,Bridgeton Brae,Almondbank,MKD,306406,726569
+73723463,Playing Fields,U42,Pitcairngreen,CUS,306495,727131
+73725343,DEL-Pitcairngreen,U42,Pitcairngreen,HAR,306520,727123
+73724369,Tibbermore Road End,A85,Almondbank,MKD,304986,725090
+73724948,Tibbermore Road End,A85,Almondbank,MKD,304999,725095
+73723465,Jubilee Park,Main Street,Methven,MKD,302945,726011
+73723467,Jubilee Park,Main Street,Methven,MKD,302927,725994
+73723472,Garage,Main Street,Methven,MKD,302148,725825
+73725357,Garage,Main Street,Methven,MKD,302230,725836
+73725358,Craigend Road End,A85,Keillour,MKD,299561,724958
+73723424,Craigend Road End,A85,Keillour,MKD,299526,724961
+73725359,Wester Keillour Road End,A85,Keillour,MKD,298189,724524
+73723298,Wester Keillour Road End,A85,Keillour,MKD,298204,724537
+73725363,Madderty Road End,A85,Mains of Gorthy,MKD,295471,723947
+73723292,Madderty Road End,A85,Mains of Gorthy,MKD,295481,723966
+73723295,Golf Course,Perth Road,Crieff,MKD,287267,722308
+73725425,Golf Course,Perth Road,Crieff,MKD,287242,722255
+73724737,Ochill View Gardens,Perth Road,Crieff,MKD,286990,722021
+73724739,Ochill View Gardens,Perth Road,Crieff,MKD,287024,722044
+73724274,Dollerie Terrace,East High Street,Crieff,MKD,286817,721645
+73724962,Dollerie Terrace,East High Street,Crieff,MKD,286802,721621
+73725474,Ramsay Street,Perth Road,Crieff,MKD,286666,721566
+73724847,West High Street,Comrie Street,Crieff,MKD,286269,721708
+73724243,Milnab Street,Comrie Street,Crieff,MKD,286230,721759
+73724397,Nursing Home,Comrie Road,Crieff,MKD,286152,721990
+73724939,Nursing Home,Comrie Road,Crieff,MKD,286093,722171
+73724398,Macrosty Park,Comrie Road,Crieff,MKD,285957,722313
+73724929,Macrosty Park,Comrie Road,Crieff,MKD,285951,722341
+73723296,Dalvreck House,A85,Crieff,MKD,285602,722816
+73725454,Dalvreck House,A85,Crieff,MKD,285591,722810
+73723297,Monzievaird Village Hall,A85,Crieff,MKD,281912,722446
+73725456,Monzievaird Village Hall,A85,Crieff,MKD,281915,722437
+73723423,Comrie Croft,A85,Comrie,MKD,280307,722809
+73725457,Comrie Croft,A85,Comrie,MKD,280304,722802
+73725458,West Lodge Caravan Park,A85,Comrie,MKD,278462,722540
+73723287,West Lodge Caravan Park,A85,Comrie,MKD,278508,722512
+73723425,Library,Drummond Street,Comrie,MKD,277484,722113
+73725459,Library,Drummond Street,Comrie,MKD,277492,722109
+73724348,Post Office,Bridge Street,Comrie,MKD,277338,721965
+73724523,War Memorial,Bridge Street,Dalginross,MKD,277390,721865
+73724587,Earnhope,Bridge Street,Dalginross,MKD,277471,721670
+73724246,Glenlee,B827,Dalginross,MKD,277498,721577
+73724936,Strowan Road,Strowan Road,Dalginross,MKD,277836,721597
+73724937,Medical Centre,Strowan Road,Dalginross,MKD,277905,721430
+73724973,White Church,Dunira Street,Comrie,MKD,277285,721963
+73724396,Stonefield,Dundas Street,Comrie,MKD,277223,722009
+73724935,Dunadin,Dundas Street,Comrie,MKD,277107,722104
+73724359,Parish Church,Burrell Street,Comrie,MKD,277023,722111
+73725475,Parish Church,Burrell Street,Comrie,MKD,277001,722087
+73724524,Bridge of Ross,A85,Comrie,MKD,276798,722054
+73724956,Bridge of Ross,A85,Comrie,MKD,276759,722105
+73725463,Dalchonzie,A85,Comrie,MKD,273982,723062
+73723428,Dalchonzie,A85,Comrie,MKD,273981,723076
+73723429,Station Road,A85,St Fillans,MKD,269988,724172
+73725439,Station Road,A85,St Fillans,MKD,269961,724152
+73724372,Arrans Hotel,A85,St Fillans,MKD,269564,724088
+73723432,Arrans Hotel,A85,St Fillans,MKD,269558,724099
+73724368,Achray House Hotel,A85,St Fillans,MKD,269256,724285
+73723434,Achray House Hotel,A85,St Fillans,MKD,269242,724295
+73724242,Four Seasons Hotel,A85,St Fillans,MKD,269093,724399
+73725236,Burrell Square,Burrell Street,Crieff,MKD,286149,721653
+73724284,Meadow Place,Burrell Street,Crieff,MKD,286115,721596
+73726892,Graham Court,Prieston Road,Bankfoot,HAR,306792,735266
+73724684,Hollybush Road,Hollybush Drive,Crieff,HAR,287260,721579
+73725468,Broich Terrace,Broich Terrace,Crieff,MKD,286479,721265
+73724852,Commissioner Street,Commissioner Street,Crieff,CUS,286360,721353
+73724682,Turleum Road,Turleum Road,Crieff,HAR,287327,721471
+73725232,Fletcher Place,McCowan Avenue,Crieff,CUS,287205,721368
+73725465,Alligan Road,Maxton Road,Crieff,CUS,287021,721193
+73724986,Health Centre,King Street,Crieff,MKD,286173,721353
+73724978,Sauchie Road,Burrell Street,Crieff,MKD,286003,721274
+73724575,Glenogle Court,Sauchie Road,Crieff,MKD,285945,721585
+73724982,Laggan Road,Laggan Road,Crieff,CUS,285606,722131
+73724354,Laggan Road,Laggan Road,Crieff,CUS,285585,722126
+73724895,Angus Crescent,Highland Road,Crieff,HAR,285570,722033
+73724236,Angus Crescent,Highland Road,Crieff,HAR,285586,721990
+73725253,Morrisons Academy West,Coldwells Road,Crieff,MKD,286291,721806
+73725246,Chapel Road,North Bridge Street,Crieff,MKD,285848,721037
+73724323,Chapel Road,North Bridge Street,Crieff,MKD,285833,721007
+73724749,McHaney Court,South Bridgend,Crieff,MKD,285660,720829
+73724237,McHaney Court,South Bridgend,Crieff,MKD,285660,720778
+73724643,Visitor Centre,Muthill Road,Crieff,MKD,285730,720535
+73723657,Monzie Road End,A822,Gilmerton,CUS,288520,723882
+73725473,Monzie Road End,A822,Gilmerton,CUS,288523,723871
+73725464,Road End,A9,Windyedge,MKD,305641,721385
+73724934,DEL-Forteviot Road End,A9,Upper Cairnie,MKD,303221,719044
+73724863,DEL-Forteviot Road End,A9,Upper Cairnie,MKD,303217,719068
+73723652,Bus Bay,C484,Glencarse,MKD,319354,721313
+73724965,Pitroddie Farm Road End,C401,Kilspindie,CUS,321834,725039
+73724297,Pitroddie Farm Road End,C401,Kilspindie,CUS,321838,725030
+73724257,Road End,C401,Kinnaird,MKD,324658,728550
+73724549,Road End,C401,Kinnaird,CUS,324664,728547
+73724569,Cruachan,C401,Ballindean,CUS,325847,729326
+73723935,Cruachan,C401,Ballindean,CUS,325847,729310
+73724562,Baledgarno,B953,Inchture,CUS,327611,730087
+73723767,Baledgarno,B953,Inchture,CUS,327594,730084
+73724832,Road End,C405,Dundriven,CUS,325096,734342
+73723758,Phone Box,Newtyle Road,Kettins,CUS,323837,739115
+73724346,Bank Of Scotland,Union Street,Coupar Angus,MKD,322220,740037
+73723757,Library,Union Street,Coupar Angus,MKD,322299,740162
+73723724,Waverly Court,Forfar Road,Coupar Angus,MKD,322373,740295
+73723725,Strathmore Place,Dundee Road,Meigle,MKD,328737,744508
+73723697,Belmont Place,Dundee Road,Meigle,MKD,328878,744327
+73725395,Belmont Place,Dundee Road,Meigle,MKD,328832,744374
+73725396,Strathmore Place,Dundee Road,Meigle,CUS,328731,744498
+73723693,Cottage Hospital,Dundee Road,Meigle,MKD,329019,744130
+73723643,Cottage Hospital,Dundee Road,Meigle,MKD,329038,744067
+73725397,Belmont Castle,Dundee Road,Meigle,MKD,329005,743694
+73723646,Belmont Castle,Dundee Road,Meigle,MKD,329021,743672
+73725398,Meigle Road,Airlie Street,Alyth,MKD,324978,747931
+73723792,Kirkton Road,Alyth Road,Rattray,MKD,318961,745743
+73724789,Kirkton Road,Alyth Road,Rattray,MKD,318948,745734
+73723673,Honeyberry Drive,High Street,Rattray,MKD,318728,745656
+73725438,Honeyberry Drive,High Street,Rattray,MKD,318771,745660
+73724258,Sidlaw Road,High Street,Rattray,MKD,318477,745531
+73725263,Sidlaw Road,High Street,Rattray,MKD,318536,745564
+73725426,Boat Brae,Boat Brae,Rattray,MKD,318160,745280
+73723787,Newmilne Cottages,A93,Guildtown,MKD,313178,730353
+73724724,Newmilne Cottages,A93,Guildtown,CUS,313178,730371
+73723786,Hall Road,Main Road,Guildtown,MKD,313325,731671
+73724765,Hall Road,Main Road,Guildtown,MKD,313311,731717
+73723729,Wolfhill Road,Main Road,Guildtown,MKD,313254,732183
+73724747,Wolfhill Road,Main Road,Guildtown,MKD,313263,732214
+73723739,Ardblair Road,A93,Blairgowrie,MKD,317344,743596
+73724767,Whinstead,Perth Road,Blairgowrie,MKD,317452,744111
+73723732,Essendy Road,Perth Road,Blairgowrie,MKD,317460,744252
+73723745,West Altamount lane,Perth Street,Blairgowrie,MKD,317487,744424
+73723746,West Altamount lane,Perth Street,Blairgowrie,MKD,317490,744530
+73723735,Ardblair Road,Perth Road,Blairgowrie,MKD,317335,743578
+73724285,Ann Street,Perth Street,Blairgowrie,MKD,317511,744646
+73724694,Ann Street,Perth Street,Blairgowrie,MKD,317509,744702
+73725428,Dunkeld Road,Perth Street,Blairgowrie,MKD,317567,744815
+73723679,Dunkeld Road,Perth Street,Blairgowrie,MKD,317601,744900
+73724278,Jessie Street,Perth Street,Blairgowrie,MKD,317656,744975
+73724296,High Street,High Street,Blairgowrie,MKD,317800,745260
+73724395,St Ninians Road,Airlie Street,Alyth,MKD,324739,748298
+73724925,St Ninians Road,Airlie Street,Alyth,MKD,324721,748345
+73724394,Airlie Place,Airlie Street,Alyth,MKD,324828,748162
+73724924,Airlie Place,Airlie Street,Alyth,MKD,324793,748244
+73724898,Briarbank,Meigle Road,Alyth,MKD,325209,747941
+73726939,Newhall Street,Prieston Road,Bankfoot,HAR,306600,735252
+73748746,Thorn,A926,Alyth,CUS,323259,746755
+73786938,Newlands Farm,B919,Wester Balgedie,CUS,315799,705016
+73726942,Prison,Edinburgh Road,Perth,MKD,311732,722583
+73725936,Princes Street,Princes Street,Perth,MKD,311920,723306
+73725937,Edinburgh Road,Edinburgh Road,Perth,MKD,311911,723026
+73725938,Edinburgh Road,Edinburgh Road,Perth,MKD,311895,723038
+73725939,Prison,Edinburgh Road,Perth,MKD,311712,722502
+73725942,Tesco,Edinburgh Road,Friarton,MKD,311510,722012
+73725943,Friarton Road,Edinburgh Road,Friarton,MKD,311701,721428
+73726452,Craigclowan School,Edinburgh Road,Scoonieburn,MKD,312146,721025
+73725945,Friarton Road,Edinburgh Road,Friarton,MKD,311703,721438
+73725946,Cottages,A912,Craigend,MKD,312026,720319
+73725947,Cottages,A912,Craigend,MKD,311931,720311
+73725784,Wallacetown Road,A912,Bridge of Earn,MKD,313165,718845
+73725785,Wallacetown Road,A912,Bridge of Earn,MKD,313211,718813
+73725792,Side Street,Main Street,Bridge of Earn,MKD,313170,718253
+73725789,Side Street,Main Street,Bridge of Earn,MKD,313183,718260
+73726298,Balmanno Park,Wicks O'Baiglie Road,Kintillo,CUS,313384,717750
+73752543,Farragon Drive,Farragon Drive,Aberfeldy,CUS,285975,749052
+73752729,Taybridge Terrace,Taybridge Terrace,Aberfeldy,MKD,285378,749313
+73753539,Leetown,Low Carse Road,St Madoes,CUS,320832,721340
+73759258,Murray Terrace,Murray Terrace,Viewlands,HAR,310201,723088
+73758527,Viewlands Place,Viewlands Place,Viewlands,HAR,310315,723068
+73727975,Cottown,Low Carse Road,St Madoes,CUS,320468,721193
+73728356,Hill Farm Cottages,Low Carse Road,Errol,CUS,322757,721606
+73728263,Mains of Errol,Low Carse Road,Errol,CUS,323950,721955
+73725965,Nethermill,A913,Aberargie,MKD,316392,715813
+73725967,Front Row,A913,Aberargie,MKD,316524,715832
+73725968,Glenfoot Road,A913,Abernethy,MKD,317387,715810
+73725732,Castlelaw Crescent,Perth Road,Abernethy,MKD,318124,716047
+73725734,Castlelaw Crescent,Perth Road,Abernethy,MKD,318168,716042
+73725735,Lismore,Perth Road,Abernethy,MKD,318419,716128
+73725736,Annfield,Perth Road,Abernethy,MKD,318474,716137
+73725737,Hotel,Back Dykes,Abernethy,MKD,318769,716419
+73725738,Hotel,Back Dykes,Abernethy,MKD,318792,716474
+73725743,Inkerman Alley,Back Dykes,Abernethy,MKD,319094,716547
+73725745,Inkerman Alley,Back Dykes,Abernethy,MKD,319138,716564
+73725746,Southfield,Newburgh Road,Abernethy,MKD,319468,716716
+73725747,Cemetery,A913,Abernethy,CUS,320216,717131
+73726262,Duncrievie,B996,Glenfarg,MKD,313840,709714
+73726263,Duncrievie,B996,Glenfarg,MKD,313813,709725
+73725959,Elm Cottage,Main Street,Glenfarg,MKD,313566,710059
+73726264,Elm Cottage,Main Street,Glenfarg,MKD,313565,710089
+73726265,Ladeside,Main Street,Glenfarg,MKD,313503,710419
+73726269,Greenbank Road,Main Street,Glenfarg,MKD,313563,710720
+73726272,Greenbank Road,Main Street,Glenfarg,MKD,313562,710773
+73726273,Hillwood,Main Street,Glenfarg,MKD,313622,711011
+73726274,Fordel Road End,B996,Glenfarg,MKD,313741,711460
+73726275,Fordel Road End,B996,Glenfarg,MKD,313816,711509
+73726276,Bein Inn,B996,Glenfarg,MKD,315971,713036
+73726278,Bein Inn,B996,Glenfarg,MKD,316013,713073
+73725969,Balnagowan,A912,Aberargie,MKD,316107,715714
+73725972,Balnagowan,A912,Aberargie,CUS,316057,715742
+73725896,Ashley House,Perth Road,Milnathort,MKD,312463,704836
+73725897,Burleigh Road Junction,Perth Road,Milnathort,MKD,312350,704797
+73725898,Victoria Avenue,New Road,Milnathort,MKD,312271,704757
+73725923,Victoria Avenue,New Road,Milnathort,MKD,312220,704757
+73726379,Balado Crossroads,A977,Balado,CUS,308584,702198
+73726239,Drumhead,Main Street,Drum,MKD,304320,700630
+73725986,Fossoway Garage,A977,Crook of Devon,MKD,303896,700293
+73725987,Fossoway Garage,A977,Crook of Devon,MKD,303879,700300
+73725989,Post Office,Main Street,Crook of Devon,MKD,303647,700214
+73726325,Gartwhinzean Loan,A977,Powmill,MKD,301366,697744
+73726326,Gartwhinzean Loan,A977,Powmill,MKD,301341,697734
+73726235,Naemoor Road,Main Street,Crook of Devon,MKD,303298,700190
+73725836,Kirklands Hotel,High Street,Kinross,MKD,311891,702393
+73725834,Lomond Mews,Station Road,Kinross,MKD,311759,702288
+73725837,Green Hotel,The Muirs,Kinross,MKD,311818,702604
+73728234,Mains of Errol,Low Carse Road,Errol,CUS,323966,721985
+73725842,The Muirs,B996,Kinross,MKD,311701,702939
+73725843,Gallowhill Road,The Muirs,Kinross,MKD,311601,703277
+73725845,Gallowhill Road,The Muirs,Kinross,MKD,311582,703314
+73725752,Castle Wynd,High Street,Auchterarder,MKD,294724,712966
+73725753,Castle Wynd,High Street,Auchterarder,MKD,294685,712935
+73725757,St Kessogs Place,High Street,Auchterarder,MKD,294268,712747
+73725758,Spar,High Street,Auchterarder,MKD,294187,712675
+73725759,Sydney Crescent,Townhead,Auchterarder,MKD,293977,712583
+73725762,St Margaret's Hospital,Western Road,Auchterarder,MKD,293830,712453
+73725763,St Margaret's Hospital,Western Road,Auchterarder,MKD,293802,712442
+73726382,Berrydyke Farm,A822,Braco,MKD,284346,711327
+73726383,Berrydyke Farm,A822,Braco,MKD,284324,711317
+73726386,Greenhaugh Way,Front Street,Braco,MKD,283703,709430
+73726387,Greenhaugh Way,Front Street,Braco,MKD,283689,709283
+73726279,Allanbank Inn,A822,Greenloaning,MKD,283495,707830
+73726282,Allanbank Inn,A822,Greenloaning,MKD,283501,707820
+73726454,Mid Lane,Smiddy Brae,Braco,MKD,283694,709595
+73746246,Leadenflower Place,Leadenflower Street,Crieff,CUS,286714,721524
+73734247,Lochend Farm Shop,B920,Scotlandwell,CUS,318203,700440
+73748535,Lochend Farm Shop,B920,Scotlandwell,CUS,318187,700444
+73734328,Garden Cottage,Findo Gask Road,Broom of Dalreoch,CUS,300116,717393
+73745685,Charlesfield,Findo Gask Road,Broom of Dalreoch,CUS,300603,719136
+73757425,Blairbell Cottage,Mill of Gask Road,Findo Gask,CUS,302076,720399
+73739758,Charlesfield,Findo Gask Rd,Broom of Dalreoch,CUS,300630,719108
+73732865,Garden Cottage,Findo Gask Road,Broom of Dalreoch,CUS,300123,717379
+73736954,Breadalbane Community Campus,Crieff Road,Aberfeldy,MKD,285394,748903
+73734252,The Hub,off Muirhall Road,Kinnoull,MKD,312851,724112
+73787285,Rohallion,off Muirhall Road,Kinnoull,MKD,312990,724129
+73734569,Newlands Farm,B919,Wester Balgedie,CUS,315808,705032
+73745856,Loch Rannoch Hotel,B846,Kinloch Rannoch,CUS,265355,758879
+73749257,Clunbeg,B8079,Blair Atholl,CUS,289293,764361
+73734248,Clunbeg,B8079,Blair Atholl,CUS,289260,764364
+73769594,Dewars World of Whisky,A827,Aberfeldy,CUS,286497,749564
+73736982,Moness Resort,A826,Aberfeldy,CUS,285679,748559
+73745972,Griffin Wind Farm,A826,Amulree,CUS,290772,742237
+73734249,Griffin Wind Farm,A826,Amulree,CUS,290831,742022
+73793269,Auchingarrich Wildlife Centre,U198,Comrie,CUS,278956,719719
+73765825,Hydro Hotel,off Ferntower Road,Crieff,CUS,286607,722375
+73753793,West Lowbank Cottage,C411,Trinity Gask,CUS,294250,717059
+73737238,Moness Resort,A826,Aberfeldy,CUS,285663,748563
+73784375,Famous Grouse Experience,Glenturret Distillery Ro,Crieff,CUS,285659,723445
+73753895,The Lade,St Catherines Road,Perth,MKD,311185,724026
+73728264,Monart Road,St Catherines Road,Perth,MKD,311223,723878
+73753928,Clunie Bridge Road,Atholl Road,Pitlochry,MKD,293239,758571
+73793296,Clunie Bridge Road,Atholl Road,Pitlochry,MKD,293212,758577
+73757686,Depot,A822,Inver,CUS,302413,742088
+73739894,Depot,A822,Inver,CUS,302434,742067
+73784637,East Kirkton Farm,B8062,Auchterarder,CUS,294763,713878
+73787289,East Kirkton Farm,B8062,Auchterarder,CUS,294748,713876
+73765484,West Mains Farm,C410,Huntingtower,CUS,307155,724826
+73734256,West Mains Farm,C410,Huntingtower,CUS,307150,724847
+73739835,Donafuil,B846,Coshieville,CUS,277904,749052
+73745868,Glenlyon Road End,C449,Fortingall,CUS,273291,746833
+73748724,Glenlyon Road End,C449,Fortingall,CUS,273354,746851
+73734257,Preston Watson Street,Station Road,Errol,MKD,325659,723338
+73736975,Gleneagles Station,Access Road,Auchterarder,MKD,292887,710514
+73745737,Club,A827,Kenmore,CUS,277107,745657
+73736978,Mains of Keithick Farm,A94,Burrelton,CUS,321088,738643
+73748726,Mains of Keithick Farm,A94,Burrelton,CUS,321101,738634
+73748723,Balmyle Farm,A94,Meigle,CUS,327586,744475
+73798956,Balmyle Farm,A94,Meigle,CUS,327605,744465
+73736976,Colbeggie,C18,Coupar Angus,CUS,324620,740559
+73732872,Colbeggie,C18,Coupar Angus,CUS,324642,740565
+73739839,Park and Ride,Junction Road,Kinross,MKD,311198,702436
+73748698,Golf Club,Golf Course Road,Rosemount,MKD,317894,743284
+73736974,Greenloaning Farm,A822,Greenloaning,MKD,283255,707222
+73745864,Leadenflower Place,Leadenflower Street,Crieff,CUS,286725,721537
+73753728,Holly Place,Ochilview Gardens,Crieff,CUS,287172,721754
+73728248,Lair,A93,Dalrulzion,CUS,314223,763376
+73753748,Gwydyr Road,Craigard Road,Crieff,MKD,286193,722165
+73728259,Lair,A93,Dalrulzion,CUS,314247,763365
+73757464,Addison Terrace,Church Street,Crieff,MKD,286499,721438
+73753754,Alligan Road,Alligan Road,Crieff,HAR,286844,721357
+73757592,Hillhead Farm,U16,Drumness,CUS,290536,715320
+73732873,Hillhead Farm,C458,Drumness,CUS,290551,715330
+73728252,Loch Leven Larder,A911,Milnathort,CUS,316019,704178
+73728375,Loch Leven Larder,A911,Milnathort,CUS,316053,704170
+73728435,Burleigh Sands,C495,Milnathort,CUS,313381,704075
+73728524,Burleigh Sands,C495,Milnathort,CUS,313420,704100
+73728954,Clova Avenue,Berrydale Road,Blairgowrie,CUS,317797,744226
+73757593,Millburn,C458,Tullibardine,CUS,292162,714388
+73769436,Millburn,C458,Tullibardine,CUS,292133,714385
+73796234,Foresters Croft,C458,Tullibardine,CUS,291288,714801
+73798954,Foresters Croft,C458,Tullibardine,CUS,291292,714815
+73757594,Co-op,Union Terrace,Crieff,MKD,286159,721416
+73757595,Inchbrakie Gardens,Inchbrakie Drive,Crieff,HAR,287472,721461
+73748727,Bus Turning Point,Old Mill Road,Rattray,CUS,319021,744915
+73753756,Ochil View Gardens,Ochil View Gardens,Crieff,MKD,287049,721916
+73762648,Hollybush Drive,Dollerie Terrace,Crieff,MKD,287218,721679
+73753592,Hollybush Drive,Dollerie Terrace,Crieff,MKD,287282,721652
+73753753,Medical Centre,car park,Crieff,MKD,286212,721324
+73762645,West Third,U20,Auchterarder,CUS,291991,713390
+73765485,West Third,U20,Auchterarder,CUS,292009,713396
+73753749,Milton of Machany,C457,Tullibardine,CUS,290977,716143
+73765487,Milton of Machany,C457,Tullibardine,CUS,290980,716162
+73736979,West Mains of Colquhalzie,C457,Tullibardine,CUS,291370,716259
+73784376,West Mains of Colquhalzie,C457,Tullibardine,CUS,291385,716242
+73769434,Dallich Road End,A822,Buchanty,CUS,291196,728276
+73753752,Dallick Road End,A822,Buchanty,CUS,291110,728356
+73757597,Mossgeil,B8062,Crieff,CUS,289651,719596
+73769438,Mossgeil,B8062,Crieff,CUS,289642,719582
+73765486,Millhills,B8062,Crieff,CUS,289266,719895
+73784287,Millhills,B8062,Crieff,CUS,289280,719919
+73769432,Dolleriemuir,B8062,Crieff,CUS,290962,719009
+73757596,Dolleriemuir,B8062,Crieff,CUS,290972,719022
+73765489,West Lowbank Cottage,C411,Trinity Gask,CUS,294238,717072
+73784374,Westhill,B8062,Crieff,CUS,290124,719338
+73732874,Westhill,B8062,Crieff,CUS,290116,719324
+73769479,Cultybraggan,B828,Comrie,CUS,277299,720039
+73762647,Arlary road end,B996,Milnathort,CUS,313767,705846
+73787325,Arlary road end,B996,Milnathort,CUS,313781,705836
+73787342,Easter Balado,A977,Balado,CUS,309655,702718
+73762652,Easter Balado,A977,Balado,CUS,309629,702726
+73784378,Easter Clunie,A913,Abernethy,CUS,321588,717822
+73762646,Gelvan road end,A977,Drum,CUS,305405,701091
+73793238,Gelvan road end,A977,Drum,CUS,305428,701085
+73769437,Mawcarse road end,A91,Milnathort,CUS,314882,706658
+73787527,Balgedie Court,Home Farm Access Road,Glenlomond,CUS,316913,704984
+73795986,Mawcarse road end,A91,Milnathort,CUS,314860,706657
+73787328,Bogmiln Farm,Low Carse Road,Grange,CUS,328288,725704
+73793273,Bogmiln Farm,Low Carse Road,Grange,CUS,328246,725699
+73784382,Level Crossing,Low Carse Road,Inchture,CUS,328621,726482
+73798949,Level Crossing,Low Carse Road,Inchture,CUS,328632,726423
+73765483,East Leys Farm,Low Carse Road,Errol,CUS,326099,724077
+73795987,East Leys Farm,Low Carse Road,Errol,CUS,326080,724080
+73769435,Bankfoot road end,B9099,Airntully,CUS,310274,736485
+73798952,Bankfoot road end,B9099,Airntully,CUS,310284,736506
+73753827,Glenfoot Road,A913,Abernethy,MKD,317385,715828
+73784379,Orchil Castle,A822,Braco,CUS,286163,712878
+73796235,Orchil Castle,A822,Braco,CUS,286141,712880
+73787329,Damside Farm,A824,Auchterarder,CUS,296855,714825
+73798953,Damside Farm,A824,Auchterarder,CUS,296869,714814
+73765628,Myreside Cottage,Dunkeld road,Blairgowrie,CUS,316939,744773
+73736989,Kinnaird House,B898,Dalguise,CUS,298240,749850
+73784392,Kinnaird House,B898,Dalguise,CUS,298231,749836
+73734267,Mains of Mause,A93,Blairgowrie,CUS,316421,749789
+73784398,Mains of Mause,A93,Blairgowrie,CUS,316402,749791
+73757638,Easter Denhead Farm,A94,Coupar Angus,CUS,323940,741556
+73728274,Easter Denhead Farm,A94,Coupar Angus,CUS,323926,741568
+73762679,Burnside Cottage,A93,Cargill,CUS,314045,735267
+73753784,Byres Farm,A93,Guildtown,CUS,312914,732903
+73728262,Byres Farm,A93,Guildtown,CUS,312929,732909
+73739838,Briarbank,Meigle Road,Alyth,MKD,325193,747929
+73728257,Scone of Lethendy,A93,Old Scone,CUS,313012,728513
+73753765,Scone of Lethendy,A93,Old Scone,CUS,313020,728496
+73748737,Balboughty Cottages,A93,Old Scone,CUS,312714,727637
+73728256,Balboughty Cottages,A93,Old Scone,CUS,312702,727649
+73798689,Cardney Lodge,A923,Butterstone,CUS,305030,745030
+73792792,Cardney Lodge,A923,Butterstone,CUS,305016,745041
+73793265,Fungarth,A923,Dunkeld,CUS,303387,743470
+73798783,Fungarth,A923,Dunkeld,CUS,303376,743483
+73787327,West Jordansone Farm,B954,Alyth,CUS,326975,746659
+73787326,West Jordansone Farm,B954,Alyth,CUS,326983,746673
+73793268,Mains of Persie,A93,Bridge of Cally,CUS,314127,754646
+73795989,Mains of Persie,A93,Bridge of Cally,CUS,314142,754651
+73796232,Finegand Farm,A93,Dalrulzion,CUS,313971,766164
+73793267,Finegand Farm,A93,Dalrulzion,CUS,313981,766179
+73728265,Burnside Cottage,A93,Cargill,CUS,314063,735271
+73734275,The Milton,A85,Comrie,CUS,278236,722507
+73793283,The Milton,A85,Comrie,CUS,278245,722493
+73798967,Wester Feddal Farm,B8033,Braco,CUS,282254,708614
+73796245,Glassick Farm,B8033,Braco,CUS,282890,709000
+73769459,School Bus Park,Broich Road,Crieff,MKD,286518,720836
+73739849,Greenhill Farm,C410,Balgowan,CUS,301871,722921
+73765498,Greenhill Farm,C410,Balgowan,CUS,301854,722934
+73787359,Auchilhanzie,A85,Gilmerton,CUS,289673,723362
+73787352,Maple Road,Alder Drive,Oakbank,HAR,308803,723182
+73796253,Feddal Road,Front Street,Braco,MKD,283745,709800
+73748752,Feddal Road,Front Street,Braco,MKD,283757,709784
+73769524,Thorn road end,A926,Alyth,CUS,323228,746717
+73728268,Easter Rattray,A926,Alyth,CUS,320816,745811
+73769439,Easter Rattray,A926,Alyth,CUS,320835,745790
+73762682,South Inch Car Park,South Inch Car Park,Perth,CUS,311941,723039
+73757652,Tullybaccart Farm,A923,Kettins,CUS,326377,735988
+73757952,Hallyburton Lodge,A923,Kettins,CUS,324059,737900
+73728272,Hallyburton Lodge,A923,Kettins,CUS,324036,737897
+73734292,Black Watch Museum,Balhousie St,Muirton,MKD,311444,724344
+73765738,NISA,Marshall Way,Luncarty,MKD,309584,729960
+73753879,Clashburn Way,Clashburn Road,Kinross,MKD,311755,701728
+73787579,Levenbridge Place,Junction Road,Kinross,MKD,311231,702206
+73737245,Levenbridge Place,Junction Road,Kinross,MKD,311220,702209
+73795968,Waverly Court,Forfar Road,Coupar Angus,MKD,322385,740290
+73757683,Easter Clunie,A913,Abernethy,CUS,321562,717824
+73742437,Auchilhanzie,A85,Gilmerton,CUS,289655,723346
+73762689,Hotel,Main Road,Pitcairngreen,MKD,306456,726938
+73787437,Clashburn Way,Clashburn Road,Kinross,MKD,311713,701720
+73725927,War Memorial,South Street,Milnathort,MKD,311960,704515
+73734269,South Inch Car Park,Shore Road,Perth,CUS,312000,723036
+73798957,Cultybraggan Camp,B828,Comrie,CUS,277316,720043
+73734253,Visitor Centre Car Park,off Muthill Road,Crieff,CUS,285624,720573
+73734254,Perth Academy,Viewlands Road,Viewlands,MKD,310007,723186
+73739837,Palace,A93,Scone,MKD,311973,725489
+73736973,Palace,A93,Scone,MKD,311961,725530
+73739834,Wellmeadow,Wellmeadow,Blairgowrie,MKD,318014,745183
+73757573,Jamesfield,Leslie Road,Scotlandwell,MKD,318700,701648
+73769256,Jamesfield,Leslie Road,Scotlandwell,MKD,318761,701637
+73748725,Wellmeadow,Wellmeadow,Blairgowrie,CUS,318002,745167
+73745862,Leadketty Farm,B9141,Dunning,CUS,301389,715278
+73762649,Leadketty Farm,B9141,Dunning,CUS,301368,715283
+73725973,Post Office,A827,Ballinluig,MKD,297815,752493
+73725974,Post Office,A827,Ballinluig,MKD,297832,752437
+73725954,Village Shop,C447,Strathtay,CUS,291330,753555
+73726436,War Memorial,C448,Innerwick,MKD,258738,747556
+73726286,Road End,Glenlyon Road,Cashlie,CUS,249154,741874
+73726398,Meggernie Castle,Glenlyon Road,Bridge of Balgie,MKD,257639,746790
+73726424,Gallin,Glenlyon Road,Bridge of Balgie,MKD,253636,745500
+73725765,Tilt Hotel,B8079,Blair Atholl,MKD,287825,765440
+73725767,Tilt Hotel,B8079,Blair Atholl,MKD,287832,765416
+73725978,Lay by 56,A9,Calvine,MKD,279878,766021
+73725979,Lay by 57,A9,Calvine,MKD,279834,766057
+73726347,Old Post Office,B847,Trinafour,MKD,272403,764103
+73726349,Road End,B847,Kinaldy,MKD,277517,763878
+73726353,Riverside,B846,Tummel Bridge,MKD,276210,759147
+73726354,Riverside,B846,Tummel Bridge,MKD,276221,759146
+73726357,Loch Tummel Hotel Road End,B846,Kynachan,CUS,277249,758842
+73726362,Pitagowan Road End,B8079,Calvine,MKD,281887,765833
+73726363,Pitagowan Road End,B8079,Calvine,MKD,281895,765823
+73725948,Dysart Road,Atholl Road,Pitlochry,MKD,293380,758415
+73725949,Dysart Road,Atholl Road,Pitlochry,MKD,293375,758408
+73725952,Post Office,Atholl Road,Pitlochry,MKD,293893,758196
+73728357,Beech Hedge,A93,Meikleour,CUS,316201,738776
+73725432,Mountview Road,Muirend Road,Burghmuir,HAR,309327,723619
+73727635,DEL-Caledonian Road Primary School,Alexandra Street,Perth,HAR,311291,723373
+73725435,Ambulance Depot,Muirend Road,Burghmuir,CUS,308868,723689
+73724738,Hillend Road,Muirend Road,Hillend,HAR,308862,723734
+73723963,Church Street,Feus Road,Perth,MKD,310761,724204
+73725835,Kirklands Hotel,High Street,Kinross,MKD,311909,702373
+73725838,Green Hotel,The Muirs,Kinross,MKD,311815,702654
+73725839,The Muirs,B996,Kinross,MKD,311693,702924
+73734986,Innewan Gardens,Stewart Tower Road,Bankfoot,MKD,307138,734868
+73728237,Innewan Place,Perth Road,Bankfoot,MKD,306995,735003
+73725932,Orwell Bowling Club,Wester Loan,Milnathort,CUS,312049,704755
+73728759,Co-op,Station Road,Kinross,MKD,311877,702277
+73728957,Twenty Shilling Wood,A85,Comrie,MKD,276086,722020
+73725934,Mayfield Gardens,Burleigh Road,Milnathort,MKD,312468,704673
+73725935,Mayfield Gardens,Burleigh Road,Milnathort,MKD,312606,704621
+73726375,Burnside Cottage,A911,Easter Balgedie,MKD,317122,703568
+73726376,Burnside Cottage,A911,Easter Balgedie,MKD,317121,703556
+73725823,Garage,Main Street,Kinnesswood,MKD,317579,702980
+73725824,Lomond Inn,Main Street,Kinnesswood,MKD,317618,702826
+73725825,Lomond Inn,Main Street,Kinnesswood,MKD,317643,702811
+73726342,Well Inn,Main Street,Scotlandwell,CUS,318527,701682
+73726345,Old Garage,A911,Scotlandwell,CUS,318576,701615
+73725865,Smith Street,High Street,Kinross,MKD,311895,701901
+73726253,Hatchbank Road,B996,Gairney Bank,MKD,312733,699202
+73724734,Newton House,Primrose Crescent,Tulloch,MKD,309615,725337
+73723875,Primary School,B9099,Murthly,CUS,309899,737433
+73724656,Primary School,B9099,Murthly,CUS,309908,737438
+73724625,Village Hall,B9099,Murthly,MKD,309881,738436
+73723874,Village Hall,B9099,Murthly,MKD,309863,738445
+73724564,Druids Park,B9099,Murthly,MKD,309721,738713
+73723873,Druids Park,B9099,Murthly,CUS,309706,738707
+73724572,Broompark,B9099,Murthly,MKD,309589,738973
+73723872,Broompark,B9099,Murthly,MKD,309579,738982
+73723878,Bus Shelter,BRIDGE ROAD,Caputh,MKD,308865,739930
+73724563,Bus Shelter,Bridge Road,Caputh,MKD,308872,739936
+73725437,Glendelvine Primary School,A984,Caputh,MKD,309799,740485
+73723687,Glendelvine Primary School,A984,Caputh,MKD,309782,740494
+73723858,Bishopryfauld,C428,Spittalfield,MKD,309912,740848
+73724593,Bishopryfauld,C428,Spittalfield,MKD,309905,740840
+73728535,Beech Hedge,A93,Meikleour,CUS,316205,738673
+73728242,Twenty Shilling Wood,A85,Comrie,CUS,276049,722015
+73724527,Bendochy Crossroads,A923,Coupar Angus,MKD,320836,741094
+73724858,Bendochy Crossroads,A923,Coupar Angus,MKD,320854,741105
+73724347,Cherrybank,Main Road,Woodside,MKD,320476,737809
+73725264,Cherrybank,Main Road,Woodside,MKD,320487,737808
+73724328,Inn,Main Road,Woodside,MKD,320376,737632
+73725247,Inn,Main Road,Woodside,MKD,320403,737659
+73725248,Hawthorn Cottage,Main Road,Woodside,MKD,320334,737535
+73724545,DEL-Woodside Main Road,Main Road,Woodside,MKD,320320,737533
+73725257,DEL-Station Road,Main Road,Woodside,CUS,320334,737535
+73723969,Market Street,Market Street,Aberfeldy,MKD,285608,749312
+73724324,DEL-Woodside Hall Crescent,Main Road,Woodside,MKD,306761,745799
+73726453,Millhill View,A822,Greenloaning,MKD,283431,707489
+73726254,Hatchbank Road,B996,Gairney Bank,MKD,312744,699206
+73725826,Garage,Main Street,Kinnesswood,CUS,317570,702964
+73723639,Farm Road End,A9,Windyedge,MKD,305821,721501
+73723946,Post Office,A924,Ballintuim,MKD,310130,755021
+73724586,Post Office,A924,Ballintuim,MKD,310131,755037
+73723952,Post Office,A924,Kirkmichael,MKD,307987,760155
+73724582,Post Office,A924,Kirkmichael,MKD,307984,760168
+73723898,Hotel,A924,Bridge of Cally,MKD,314024,751372
+73724635,Hotel,A924,Bridge of Cally,MKD,314000,751373
+73723849,Hotel,A93,Dalrulzion,MKD,313656,758892
+73724646,Hotel,A93,Dalrulzion,MKD,313661,758890
+73723835,Hotel,off A93,Spittal of Glenshee,MKD,311013,769898
+73724676,Hotel,A93,Spittal of Glenshee,CUS,311120,769915
+73726526,Tesco,Edinburgh Road,Friarton,MKD,311527,722009
+73726528,Dobbies Garden Centre,Crieff Road,East Huntingtower,MKD,308399,724770
+73726548,Murray Place,Store Street,Stanley,MKD,310989,733080
+73726546,Russell Street,Mill Street,Stanley,MKD,310842,733356
+73726543,East Brougham Street,Perth Road,Stanley,MKD,310744,733198
+73726545,East Brougham Street,Perth Road,Stanley,MKD,310732,733211
+73726723,Kirkhill House,Main Road,Luncarty,MKD,309282,729314
+73726574,Marshall Way,Main Road,Luncarty,MKD,309481,729868
+73726589,Marshall Way,Main Road,Luncarty,MKD,309467,730004
+73726726,Hatton Place,Marshall Way,Luncarty,HAR,309885,729671
+73726592,Hatton Place,Marshall Way,Luncarty,HAR,309905,729667
+73726532,Loanfoot Park,A824,Aberuthven,MKD,297433,715197
+73726549,Loanfoot Park,Main Road,Aberuthven,MKD,297403,715193
+73726585,Glenisla Court,Ferguson Park Road,Rattray,MKD,318487,745766
+73726579,Glendevon Court,Ferguson Park Road,Rattray,MKD,318614,745914
+73726578,Play Park,Glenalmond Road,Rattray,MKD,318338,745913
+73726576,DEL-Glenalmond Road,Glenalmond Road,Rattray,MKD,318248,745899
+73726575,Ferguson Park Road,Hatton Road,Rattray,MKD,318283,745777
+73726593,Park,Hatton Road,Rattray,MKD,318367,745652
+73726594,Park,Hatton Road,Rattray,MKD,318404,745638
+73726596,Abbotsford Crescent,Ettrick Drive,Western Edge,HAR,308316,723302
+73726597,Ash Grove,Cedar Drive,Oakbank,MKD,308447,723163
+73726598,Ash Grove,Ash Grove,Oakbank,HAR,308533,723232
+73726536,Fairhill Drive,Fairhill Crescent,Oakbank,HAR,309194,723022
+73726537,Fairhill View,Cedar Drive,Oakbank,HAR,309026,722891
+73726538,Ochil Nursing Home,ETTRICK DRIVE,Hillend,HAR,308671,723520
+73726539,Muircroft Terrace,Muircroft Drive,Oakbank,HAR,309093,723291
+73726542,Perth Academy,Viewlands Road,Viewlands,HAR,309839,723216
+73726562,Buchan Drive,Buchan Drive,Viewlands,HAR,309809,723331
+73726564,Buchan Road,Buchan Road,Viewlands,HAR,309882,723422
+73726565,Athollbank Drive,Athollbank Drive,Viewlands,HAR,310035,723320
+73726567,Viewlands Place,Murray Place,Viewlands,HAR,310295,722975
+73726568,Academy,Oakbank Crescent,Viewlands,HAR,310138,722966
+73726569,Oakbank Crescent,Oakbank Crescent,Cherrybank,HAR,309827,722914
+73726572,Oakbank Crescent,Fairies Road,Oakbank,MKD,309678,722971
+73726534,Wilson Street,Queen Street,Craigie,CUS,311049,722597
+73726757,Wilson Street,Queen Street,Craigie,HAR,311046,722604
+73726762,Queens Court,Queens Avenue,Craigie,HAR,310855,722422
+73726795,Queens Court,Queens Avenue,Craigie,HAR,310858,722437
+73726763,Murray Crescent,Woodside Crescent,Craigie,HAR,310701,722486
+73726759,Murray Crescent,Woodside Crescent,Craigie,HAR,310694,722483
+73726765,Glamis Place,Murray Crescent,Craigie,HAR,310716,722615
+73726767,Glamis Place,Murray Crescent,Craigie,HAR,310725,722615
+73726768,Pitheavlis Terrace,Cavendish Avenue,Craigie,HAR,310582,722950
+73726769,Pitheavlis Terrace,Cavendish Avenue,Craigie,HAR,310597,722947
+73726782,Pickletullum Road,Cavendish Avenue,Craigie,HAR,310949,723146
+73726783,Pickletullum Road,Cavendish Avenue,Craigie,HAR,310916,723132
+73726784,Gray Street,Needless Road,Craigie,HAR,311056,723141
+73726792,DEL-Gray Street,Needless Road,Craigie,HAR,311078,723147
+73726796,Rosslyn House,Glasgow Road,Perth,MKD,310811,723538
+73726794,Muirfield Court,Muirfield,Burghmuir,HAR,309687,723752
+73726785,Muirfield Court,Muirfield,Burghmuir,HAR,309675,723736
+73726729,Haddon Road,Dupplin Road,Gannochy,HAR,312745,724460
+73726728,Farm Road,Gannochy Edge,Gannochy,HAR,312809,724764
+73726734,Annat Road,Gannochy Road,Gannochy,HAR,312745,724308
+73726736,Goshen Terrace,Mayfield Terrace,Goshen,HAR,313538,725568
+73726745,Mayfield Road,Mayfield Terrace,Goshen,HAR,313845,725473
+73726727,Douglas Road,Douglas Road,Goshen,HAR,313912,725524
+73726756,Goshen Crescent,Goshen Road,Goshen,HAR,313682,725682
+73726754,Mayfield Terrace,Goshen Road,Goshen,HAR,313475,725618
+73726753,Cross Street,Cross Street,Scone,HAR,313393,725667
+73726752,Cross Street,Cross Street,Scone,HAR,313395,725682
+73726748,Robert Douglas Memorial Home,Abbey Road,Scone,HAR,313404,725851
+73726747,Robert Douglas Memorial Home,Abbey Road,Scone,HAR,313401,725822
+73726746,Library,Catmoor Road,Scone,HAR,313384,726144
+73726789,Library,Catmoor Road,Scone,HAR,313380,726135
+73726786,Lyon Avenue,Earn Road,Catmoor,HAR,313292,726012
+73726764,Birch Terrace,Birch Avenue,Catmoor,HAR,313165,726332
+73726737,Woollcombe Square,Stormont Road,Scone,HAR,312802,726804
+73726738,Woollcombe Square,Stormont Road,Scone,HAR,312794,726803
+73726739,Lime Grove,Oakdene Road,Scone,HAR,313111,726734
+73726758,Spoutwells Place,Spoutwells Drive,Scone,HAR,313536,726735
+73726743,RDM School East,Spoutwells Road,Scone,MKD,313675,726531
+73726832,Taylor Park,Turretbank Road,Crieff,MKD,285793,722101
+73726829,Taylor Park,Turretbank Road,Crieff,MKD,285834,722083
+73726828,Hazelwood,Sauchie Road,Crieff,MKD,285880,721885
+73726827,Sauchie Place,Sauchie Road,Crieff,MKD,285966,721370
+73726826,Monteath Street,Monteath Street,Crieff,CUS,286580,721144
+73726825,Kincardine Road,Kincardine Road,Crieff,MKD,286826,721204
+73726824,Morrisons Academy North,Victoria Terrace,Crieff,MKD,286533,721885
+73727479,Butterybank Road,A923,Coupar Angus,MKD,321600,740362
+73727496,Butterybank Road,A923,Coupar Angus,MKD,321643,740403
+73727495,Factory,George Street,Coupar Angus,MKD,321927,739784
+73727494,Factory,George Street,Coupar Angus,MKD,321950,739797
+73727493,Balmoral Road,High Street,Rattray,MKD,318314,745423
+73727492,Balmoral Road,High Street,Rattray,MKD,318351,745436
+73727489,Abernyte Link Road,A90,Inchture,MKD,328400,729314
+73727498,Craigclowan School,Edinburgh Road,Scoonieburn,MKD,312148,720946
+73726823,Denmarkfield,A9,Luncarty,CUS,309249,728168
+73727525,Denmarkfield,A9,Luncarty,CUS,309265,728115
+73727497,Burnbrae Bridge,B918,Balado,CUS,308090,703224
+73727487,Burnbrae Bridge,B918,Balado,CUS,308095,703238
+73727485,Coldrain Road End,Coldrain Road,Balado,CUS,308029,700278
+73727979,Errol Park Estate,Low Carse Road,Errol,CUS,324538,722341
+73727476,Chance Inn,C498,Kinross,CUS,311047,700174
+73727474,Mill Farm,B9097,Cleish,CUS,310228,697836
+73727465,Stormont Park,Spoutwells Drive,Scone,MKD,313174,726959
+73727452,Stormontfield Road,A93,Old Scone,CUS,311939,726885
+73727437,Breadalbane Terrace,Edinburgh Road,Friarton,MKD,311483,721724
+73727484,Breadalbane Terrace,Edinburgh Road,Friarton,MKD,311501,721707
+73727436,Drummond Crescent,Edinburgh Road,Friarton,MKD,311573,721549
+73727435,Craigieholm Crossroads,C438,Wolfhill,CUS,316581,734946
+73727434,Craigieholm Crossroads,C437,Wolfhill,CUS,316572,734916
+73727432,Academy,Oakbank Crescent,Viewlands,MKD,310131,722969
+73727398,Mill of Peattie Crossroads,C405,Campmuir,CUS,322719,737289
+73727356,Blairgowrie High School,Beeches Road,Blairgowrie,HAR,317624,744485
+73727353,Church Hall,George Street,Blairgowrie,MKD,317739,745372
+73727345,Essendy Bridge,B947,Wester Essendy,CUS,314800,743252
+73727342,Church,B947,Kirkton of Lethendy,CUS,312983,741835
+73727297,Smithfield Crescent,Smithfield Crescent,Blairgowrie,HAR,317558,744202
+73727383,William Street,Perth Street,Blairgowrie,MKD,317713,745098
+73727287,War Memorial,St Martins Road,St Martins,CUS,315313,730301
+73728437,Mill Street,Mill Street,Stanley,CUS,310732,733480
+73727276,Arnbog Farm,A94,Meigle,CUS,332019,746090
+73727265,Broadfold,B8062,Auchterarder,CUS,296410,712946
+73727264,Broadfold,B8062,Auchterarder,CUS,296401,712931
+73727397,Pier Road,Aberfeldy Road,Kenmore,MKD,277406,745421
+73727396,Pier Road,Aberfeldy Road,Kenmore,MKD,277371,745434
+73727243,Ardunie Road End,C460,Madderty,CUS,293797,719166
+73727242,Ardunie Road End,C460,Madderty,CUS,293820,719193
+73727239,Millhill View,A822,Greenloaning,MKD,283425,707508
+73727236,Pittencleroch Cottage,U7,Milton of Cultoquhey,CUS,290055,722991
+73727235,Pittencleroch Cottage,U7,Milton of Cultoquhey,CUS,290074,723007
+73727234,Abercairny Cottage,A85,Milton of Abercairny,CUS,290891,723226
+73727232,Abercairny Cottage,A85,Milton of Abercairny,CUS,290934,723203
+73726989,DEL-New Fowlis,Fowlis Wester Road,New Fowlis,MKD,292753,723228
+73726987,DEL-New Fowlis,Fowlis Wester Road,New Fowlis,HAR,292754,723230
+73726986,Post Box,Fowlis Wester Road,Fowlis Wester,MKD,292773,724041
+73726985,Rockingham,C460,Madderty,CUS,295120,720251
+73726984,Rockingham,C460,Madderty,CUS,295105,720256
+73726982,Lynemore,C410,Madderty,CUS,293323,720212
+73726979,Lynemore,C410,Madderty,CUS,293315,720203
+73726962,Park Village,Turretbank Road,Crieff,MKD,285661,722492
+73726958,Morven Bank,A822,Gilmerton,CUS,288562,723633
+73726957,Morven Bank,A822,Gilmerton,CUS,288550,723641
+73726959,Loch Tummel Hotel,Car Park off B846,Kynachan,CUS,277329,758963
+73726952,Farm,A924,Kinnaird,CUS,295522,759176
+73726953,Farm,A924,Kinnaird,CUS,295502,759173
+73726945,War Memorial,A827,Fearnan,CUS,272141,744384
+73726943,War Memorial,A827,Fearnan,CUS,272132,744369
+73759379,Burnside Road,Burnside Road,Pitlochry,CUS,293922,757998
+73728324,House No 159,Mill Street,Stanley,CUS,310723,733473
+73726932,Telephone Exchange,B846,Tummel Bridge,CUS,276268,759228
+73726925,Cranog Centre,C451,Kenmore,CUS,277044,744846
+73726924,Cranog Centre,C451,Kenmore,CUS,277047,744840
+73726923,Toll House,C447,Weem,CUS,284809,749811
+73726898,Toll House,C447,Weem,CUS,284810,749804
+73726897,Blair Castle,Blair Castle Road,Blair Atholl,CUS,286577,766258
+73726862,Mains of Pittendriech,A984,Meikleour,CUS,315651,739814
+73726857,Boatlands,Bridge Road,Caputh,CUS,308883,739620
+73726854,Cranley Farm,U113,Meikleour,CUS,314823,741365
+73726853,Road End,A93,Blacklunans,CUS,314242,759872
+73726852,Road End,A93,Blacklunans,CUS,314219,759899
+73726843,Marshall Place,Bridgefauld Road,Milnathort,CUS,311656,704594
+73727873,Marshall Place,Bridgefauld Road,Milnathort,CUS,311667,704581
+73726927,Park and Ride,David Douglas Avenue,Scone,MKD,314331,726734
+73726842,Telephone Exchange,Mill of Gask Road,Findo Gask,CUS,300455,719691
+73726834,Balado Wynd,U246,Balado,CUS,309605,702621
+73727535,Stormont Road Surgery,Stormont Road,Scone,MKD,313776,726414
+73727837,Stormont Road Surgery,Stormont Road,Scone,MKD,313795,726419
+73727856,Greystanes,Sandy Road,Scone,MKD,313322,726434
+73727684,RDM Institute,Mansfield Road,Scone,MKD,313591,726242
+73769458,Emma Street,Coupar Angus Road,Blairgowrie,MKD,317986,744854
+73769569,Emma Street,Coupar Angus Road,Blairgowrie,MKD,317990,744868
+73769854,Manor Gardens,Coupar Angus Road,Blairgowrie,MKD,318221,744491
+73737295,Manor Gardens,Coupar Angus Road,Blairgowrie,MKD,318207,744492
+73792827,Douglas Road,Coupar Angus Road,Blairgowrie,MKD,318328,744301
+73792987,Douglas Road,Coupar Angus Road,Blairgowrie,MKD,318364,744264
+73793495,Moyness Park Drive,Coupar Angus Road,Blairgowrie,MKD,318492,744053
+73728689,Moyness Park Drive,Coupar Angus Road,Blairgowrie,MKD,318516,744035
+73728935,Woodlands Park,Coupar Angus Road,Blairgowrie,MKD,318585,743913
+73795647,Woodlands Park,Coupar Angus Road,Blairgowrie,MKD,318607,743899
+73798647,Littleblair Drive,Coupar Angus Road,Rosemount,MKD,318743,743678
+73758732,Littleblair Drive,Coupar Angus Road,Rosemount,MKD,318737,743704
+73786785,Golf Course Road,Coupar Angus Road,Rosemount,MKD,319036,743256
+73729489,Golf Course Road,Coupar Angus Road,Rosemount,MKD,319023,743258
+73798984,Myreriggs Road,A923,Rosemount,MKD,319936,742039
+73798754,Myreriggs Road,A923,Rosemount,MKD,319946,742043
+73798787,Caravan Site,Breadalbane Terrace,Aberfeldy,MKD,286069,749365
+73727869,Caravan Site,Breadalbane Terrace,Aberfeldy,MKD,286079,749359
+73727567,Wallacetown Farm Road End,C417,Rhynd,CUS,315495,718855
+73727875,Easter Essendy,B947,Wester Essendy,CUS,314824,742902
+73727879,The Steading,C432,Wester Essendy,CUS,313733,743551
+73727893,Drumellie,C432,Wester Essendy,CUS,313369,743592
+73727867,Spoutwells Farm,B947,Kirkton of Lethendy,CUS,313494,741795
+73727876,Hillocks of Gourdie,U112,Craigie,CUS,312120,743214
+73727964,Inverack,A9,Calvine,CUS,283901,765702
+73727695,Marshall Crescent,Marshall Way,Luncarty,MKD,309792,729899
+73727697,Marshall Crescent,Marshall Way,Luncarty,MKD,309792,729914
+73727584,Clach a Cheile,The Holdings,Walnut Grove,MKD,314160,722195
+73727585,Clach a Cheile,The Holdings,Walnut Grove,MKD,314181,722216
+73727587,The Holdings,The Holdings,Walnut Grove,MKD,314348,722273
+73727589,The Holdings East,The Holdings,Walnut Grove,MKD,314555,722345
+73727592,The Holdings East,The Holdings,Walnut Grove,MKD,314514,722347
+73727832,Lyndale,Perth Road,Bankfoot,MKD,307063,734738
+73727954,Industrial Estate,Breadalbane Terrace,Aberfeldy,MKD,285928,749279
+73727575,Crossgates,A9,Windyedge,MKD,305082,721186
+73727576,DEL-Crossgates,A9,Windyedge,CUS,305025,721105
+73727657,Megginch Castle,A90,Inchmichael,CUS,323467,724937
+73727594,School Wynd,High Street,Errol,MKD,325145,722849
+73727596,Primary School,Station Road,Errol,MKD,325412,722993
+73727582,Road End,A90,Kinfauns,MKD,316316,721947
+73727573,Road End,A90,Inchyra,MKD,318406,720942
+73727679,Slip Road,A90,Inchmichael,MKD,324144,725818
+73727956,Industrial Estate,Breadalbane Terrace,Aberfeldy,MKD,285948,749282
+73727957,Aultbeag Road,A827,Little Ballinluig,MKD,290985,752687
+73727958,Aultbeag Road,A827,Little Ballinluig,CUS,290980,752698
+73727865,Laiken,Perth Road,Birnam,MKD,303366,741636
+73727872,Royal Dunkeld Hotel,Atholl Street,Dunkeld,CUS,302656,742744
+73727825,Milton Road,Main Road,Luncarty,MKD,309440,730197
+73727824,Milton Road,Main Road,Luncarty,MKD,309436,730126
+73727826,Benchill View,Perth Road,Stanley,MKD,310788,732782
+73727829,Linn Road,Mill Street,Stanley,MKD,310967,733234
+73728527,Gowrie Farm,B9099,Stanley,CUS,310391,731469
+73727849,Leys Crossroads,A923,Kettins,MKD,324854,737297
+73727848,Leys Crossroads,A923,Kettins,CUS,324838,737292
+73727847,Oakwood Cottages,A923,Kettins,MKD,325614,737052
+73727846,Oakwood Cottages,A923,Kettins,MKD,325621,737041
+73727638,Taymount Terrace,Taymount Terrace,Perth,MKD,310535,723570
+73727639,Taymount Terrace,Taymount Terrace,Perth,MKD,310528,723577
+73727678,Station Road,Station Road,Methven,CUS,302376,725790
+73727674,James Street,James Street,Methven,CUS,302231,725759
+73727925,Queens Avenue,Queens Avenue,Blairgowrie,HAR,317670,744679
+73727923,Poplar Avenue,Poplar Avenue,Blairgowrie,HAR,317931,744224
+73727924,Queens Avenue,Queens Avenue,Blairgowrie,HAR,317667,744654
+73727658,The Ibert Road End,A822,Monzie,CUS,288545,725276
+73727659,The Ibert Road End,A822,Monzie,CUS,288550,725290
+73727532,Gleneagles Trades Entrance,A824,Auchterarder,MKD,291677,711604
+73727593,Craigie Place,St Magdalenes Road,Moncreiffe,MKD,311256,722427
+73727578,Glentilt Terrace,Glengarry Road,Moncreiffe,MKD,311245,721883
+73727583,Quarry Road,St Magdalenes Road,Moncreiffe,MKD,311077,722064
+73727586,Moredun Terrace,St Magdalenes Road,Moncreiffe,MKD,311099,722259
+73727895,Cemetery,Perth Road,Blairgowrie,MKD,317429,743897
+73727896,Cemetery,Perth Road,Blairgowrie,MKD,317418,743883
+73727897,Whinstead,Perth Road,Blairgowrie,CUS,317441,744092
+73727898,Essendy Road,Perth Road,Blairgowrie,MKD,317469,744274
+73727542,Romangate,Perth Road,Dunning,MKD,302178,714824
+73727543,Romangate,Perth Road,Dunning,MKD,302188,714829
+73727565,Old Mill,Edinburgh Road,Bridge of Earn,MKD,313292,717941
+73727564,Old Mill,Edinburgh Road,Bridge of Earn,MKD,313329,717917
+73727572,Moncrieffe House,A912,Bridge of Earn,MKD,312686,719337
+73727569,Moncrieffe House,A912,Bridge of Earn,MKD,312704,719334
+73727642,High Street,High Street,Perth,MKD,312047,723643
+73727647,George Street,George Street,Perth,MKD,311967,723752
+73727959,Acarsaid Hotel,Atholl Road,Pitlochry,MKD,294383,757927
+73727574,Community Centre,Low Carse Road,St Madoes,MKD,319684,721116
+73727698,Slip Road Westbound,A90,Longforgan,MKD,330543,730020
+73727945,Dunacree Road End,A827,Aberfeldy,CUS,283310,748675
+73727946,Dunacree Road End,A827,Aberfeldy,CUS,283309,748683
+73727942,Bolfracks Road East,A827,Aberfeldy,CUS,282509,748338
+73727943,Bolfracks Road East,A827,Aberfeldy,CUS,282506,748348
+73727935,Croftmoraig,A827,Kenmore,CUS,279735,747328
+73727936,Croftmoraig,A827,Kenmore,CUS,279729,747336
+73727928,Rustic Lodge,A827,Kenmore,CUS,275993,745208
+73727927,Rustic Lodge,A827,Kenmore,CUS,275999,745202
+73727854,Balnasium,A827,Lawers,CUS,266879,738737
+73727857,Balnasium,A827,Lawers,CUS,266875,738741
+73727852,Craggantoul,A827,Lawers,CUS,265571,738087
+73727853,Craggantoul,A827,Lawers,CUS,265564,738095
+73727845,Kiltyrie,A827,Lawers,CUS,262968,736616
+73727843,Kiltyrie,A827,Lawers,CUS,262974,736609
+73727839,Milton Morenish,A827,Morenish,CUS,261357,736101
+73727842,Milton Morenish,A827,Morenish,CUS,261351,736105
+73727834,Hotel,A827,Morenish,CUS,259790,735242
+73727836,Hotel,A827,Morenish,CUS,259786,735247
+73727863,Cragganruar,A827,Lawers,CUS,269320,741310
+73727864,Cragganruar,A827,Lawers,CUS,269313,741315
+73727938,Drumcharry Road End,C448,Fortingall,CUS,276028,747760
+73727937,Drumcharry Road End,C448,Fortingall,CUS,276030,747755
+73727934,Easter Auchtar,C449,Fearnan,CUS,272350,745723
+73727932,Easter Auchtar,C449,Fearnan,CUS,272356,745723
+73727546,Dunmore,A913,Abernethy,MKD,317963,716016
+73727545,Dunmore,A913,Abernethy,MKD,317946,715997
+73727696,Old Knapp Road End,A90,Longforgan,MKD,329624,729906
+73727645,Kinnoull Street,Kinnoull Street,Perth,MKD,311685,723674
+73727939,War Memorial,Meigle Road,Alyth,MKD,325012,747948
+73727862,Bogside Road,Blairgowrie Road,Coupar Angus,MKD,322194,740368
+73727859,Bogside Road,Blairgowrie Road,Coupar Angus,MKD,322227,740342
+73727858,George Place,George Street,Coupar Angus,MKD,321998,739880
+73727648,Bells Sports Centre,Hay Street,Muirton,MKD,311459,724246
+73727929,Club,Aberfeldy Road,Kenmore,MKD,277126,745643
+73727538,Latchburn Wynd,Auchterarder Road,Dunning,MKD,301640,714409
+73727539,Latchburn Wynd,Auchterarder Road,Dunning,MKD,301717,714419
+73727537,Abbey Road,High Street,Auchterarder,MKD,294861,713034
+73727823,Eastbound Slip Road,A90,Longforgan,MKD,330666,730121
+73727926,St Marys Court,Reform Street,Blairgowrie,MKD,317795,745151
+73727549,DEL-Thornhill Street,Wiloughby Street,Muthill,MKD,286803,716808
+73727835,Newhall Street,Prieston Road,Bankfoot,MKD,306597,735245
+73727838,Graham Court,Prieston Road,Bankfoot,MKD,306781,735257
+73727685,RDM School South,Stormont Road,Scone,MKD,313522,726483
+73727528,Back Dykes Road,Main Street,Kinnesswood,MKD,317491,703040
+73727529,Hillwood,Main Street,Glenfarg,MKD,313613,711015
+73727548,Southfield,Newburgh Road,Abernethy,MKD,319472,716708
+73727562,Cemetery,A913,Abernethy,MKD,320211,717137
+73727672,Mayfield Road,Mayfield Road,Goshen,HAR,313699,725502
+73727683,Bus Depot,RUTHVENFIELD ROAD,Inveralmond,MKD,309202,726292
+73727643,Bowerswell Road,Bowerswell Road,Bridgend,HAR,312417,723721
+73727627,Bus Station,Leonard Street,Perth,MKD,311373,723239
+73727649,Black Watch Museum,Hay Street,Muirton,MKD,311408,724324
+73727646,DEL-Tourist Information Centre,West Mill Street,Perth,MKD,311490,723728
+73727527,Vane Farm Car Park,Car Park,Kinross,CUS,316024,699097
+73727676,Station Road,Station Road,Methven,CUS,302381,725785
+73727682,Fishers,Ruthvenfield Avenue,Inveralmond,HAR,308708,725880
+73727693,Austen way,Old Scone Rd,Scone,MKD,312728,726905
+73727692,Austen Way,Old Scone Rd,Scone,MKD,312718,726891
+73727687,Spoutwells Place,Spoutwells Drive,Scone,HAR,313541,726742
+73727654,DEL-Brands Brae,Gannochy Road,Gannochy,HAR,313006,724654
+73727689,Lime Grove,Oakdene Road,Scone,HAR,313098,726748
+73727675,Inveralmond Road,RUTHVENFIELD WAY,Inveralmond,MKD,308899,725817
+73727637,Hatton View,Hatton Road,Kinnoull,HAR,313000,723521
+73727624,Viewlands House,Viewlands Road,Viewlands,HAR,310273,723160
+73727629,Glover Court,Blair Street,Craigie,HAR,310973,723276
+73727632,DEL-Glover Court,Blair Street,Craigie,HAR,310966,723283
+73727694,Hatton Road,Hatton Road,Luncarty,HAR,309893,729404
+73727625,Cairn,C473,New Fowlis,CUS,292731,723240
+73727598,West Acre,C459,New Fowlis,CUS,292717,723149
+73727623,West Acre,C459,New Fowlis,CUS,292708,723151
+73727626,Cairn,C473,New Fowlis,HAR,292742,723246
+73727828,Village,C439,Saucher,CUS,319772,733103
+73727827,Village,C439,Saucher,CUS,319777,733098
+73727563,Heughfield Road,Heughfield Road,Kintillo,HAR,313064,717841
+73727526,Broom Farm,U213,Blairingone,CUS,298598,696393
+73727652,Errol Station,U151,Errol,CUS,325275,724476
+73727653,Errol Station,U151,Errol,CUS,325274,724498
+73727952,Telephone Exchange,B846,Coshieville,CUS,277798,749122
+73727953,Telephone Exchange,B846,Coshieville,CUS,277803,749128
+73727948,Crieff Road,Crieff Road,Aberfeldy,CUS,285472,748896
+73728682,King Street,King Street,Perth,MKD,311542,723287
+73727978,Inveralmond Grove,Inveralmond Road,Inveralmond,MKD,309153,725947
+73735757,Ruthvenfield Place,Ruthvenfield Road,Inveralmond,MKD,308862,726124
+73728249,Springbank,A93,Blairgowrie,MKD,317323,743312
+73727984,Springbank,A93,Blairgowrie,MKD,317332,743328
+73728374,Altamount Road,Beeches Road,Blairgowrie,MKD,317871,744420
+73728258,Smithfield Way,Smithfield Crescent,Blairgowrie,MKD,317683,744112
+73728456,Cablea,A826,Amulree,CUS,291795,738590
+73727987,Cablea,A826,Amulree,CUS,291813,738589
+73728489,Corrymuckloch,A822,Amulree,CUS,289476,734564
+73727973,Corrymuckloch,A822,Amulree,CUS,289467,734542
+73757436,Park and Ride,Park and Ride Site,Broxden,MKD,308784,722601
+73757232,Foulford Inn,A822,Fendoch,CUS,289824,726759
+73757637,Foulford Inn,A822,Fendoch,CUS,289803,726742
+73757325,Gatehouse,A826,Aberfeldy,CUS,287598,747438
+73757924,Gatehouse,A826,Aberfeldy,CUS,287612,747422
+73732754,Bowton Road,Bowton Road,Kinross,HAR,311565,702219
+73729759,Montgomery Road,Montgomery Road,Kinross,HAR,311616,702125
+73732453,Myre Terrace,Montgomery Street,Kinross,CUS,311804,702039
+73728765,Myre Terrace,Montgomery Street,Kinross,CUS,311779,702035
+73736575,Post Office,Ladeside,Glenfarg,CUS,313349,710465
+73734943,Hotel,Ladeside,Glenfarg,CUS,313478,710484
+73728643,Chalder Cottage,B846,Rannoch,CUS,246494,756992
+73729346,Chalder Cottage,B846,Rannoch,CUS,246504,756981
+73727967,Learan Farm,B846,Killichonan,CUS,257266,757804
+73728735,Learan Farm,B846,Killichonan,CUS,257303,757803
+73728585,Aulich,B846,Kinloch Rannoch,CUS,260942,759058
+73728693,Aulich,B846,Kinloch Rannoch,CUS,260921,759045
+73729424,Lynton Farm,B9099,Stanley,CUS,310737,734144
+73729826,Lynton Farm,B9099,Stanley,MKD,310766,734198
+73728292,Stewart Tower,C408,Airntully,CUS,309153,736206
+73728942,Stewart Tower,C408,Airntully,CUS,309046,736191
+73728236,Berrydale Road,Smithfield Crescent,Blairgowrie,HAR,317749,744214
+73728349,Park and Ride,Junction Road,Kinross,MKD,311215,702456
+73728549,Duntaggart Road End,A826,Aberfeldy,CUS,286938,748502
+73728359,Duntaggart Road End,A826,Aberfeldy,CUS,286958,748495
+73728674,Airlie Court,Muirton,Auchterarder,CUS,292178,711651
+73728989,Airlie Court,Muirton,Auchterarder,CUS,292147,711641
+73728789,St Margarets Hosp Grounds,Car Park,Auchterarder,MKD,293709,712580
+73728473,Drummond Terrace,Drummond Terrace,Crieff,HAR,286388,722134
+73728747,Coldwells Road,Victoria Terrace,Crieff,CUS,286429,721965
+73729275,Connaught Terrace,Connaught Terrace,Crieff,HAR,286988,722189
+73728753,Turning Circle,Link Road,Glendoick,MKD,321604,723394
+73728925,Aldie Road End,A85,Mains of Gorthy,MKD,296189,724166
+73729326,Aldie Road End,A85,Mains of Gorthy,MKD,296198,724158
+73729539,Templemill Road End,A822,Crieff,MKD,286059,719051
+73729769,Templemill Road End,A822,Crieff,MKD,286077,719111
+73728958,Castleton,Castleton Road,Auchterarder,CUS,293742,713293
+73729253,Campers Express Bus Stop,off A91,Balado,MKD,309655,703969
+73729323,Festival Bus Station,A91,Balado,MKD,308964,703737
+73729389,Road End,B867,Byres of Murthly,MKD,305214,738855
+73765438,Quarterbank,C459,New Fowlis,CUS,291972,722068
+73769393,Greystane Terrace,Greystane Road,Invergowrie,CUS,334785,730564
+73753573,Hames Place,Cornhill Road,Burghmuir,CUS,309921,723827
+73793828,Tayside crescent,Tayside crescent,Aberfeldy,CUS,285609,749405
+73793272,Wester Feddal Farm,B8033,Braco,CUS,282249,708629
+73762672,Glassick Farm,B8033,Braco,CUS,282904,708994
+73757628,Logie Mill,Bleachers Way,Huntingtowerfield,CUS,307335,725398
+73798975,Logie Mill,Bleachers Way,Huntingtowerfield,CUS,307322,725415
+73753757,Linton Terrace,Craiglea Road,Burghmuir,CUS,309601,723786
+73769465,Burnbank,Back Street,Bridge of Earn,CUS,313377,718168
+73769537,Craiglea Road,Muirend Road,Burghmuir,MKD,309641,723601
+73739876,Clayton Road,Clayton Road,Bridge of Earn,CUS,313873,717950
+73728482,Abbey Road,Queen Street,Coupar Angus,MKD,322310,739780
+73729435,Abbey Road,Queen Street,Coupar Angus,MKD,322314,739743
+73728728,Hawthorn Bank,Birnam Wood Way,Wolfhill,MKD,315544,733522
+73745873,Hawthorn Bank,Birnam Wood Way,Wolfhill,MKD,315559,733527
+73728932,Hunter Crescent,Mylnefield Road,Invergowrie,HAR,334842,730213
+73745892,Memorial Park,Dargie Road,Invergowrie,HAR,334876,730155
+73732687,Park Road,Noble Ave,Invergowrie,HAR,334916,729996
+73728538,Boniface Road,Station Road,Invergowrie,HAR,335003,730056
+73745959,Burnside Road,Burnside Road,Invergowrie,HAR,335087,730231
+73729573,Cairncross Cottage,B9099,Caputh,CUS,308243,740104
+73762694,Cairncross Cottage,B9099,Caputh,CUS,308260,740112
+73729872,Easter Meikle Fardle,A984,Meikleour,CUS,313208,741231
+73745893,Easter Meikle Fardle,A984,Meikleour,CUS,313248,741215
+73729246,Findatie Cafe,B9097,Kinross,CUS,317098,699180
+73765296,DEL-Findatie,B9097,Kinross,CUS,317447,699041
+73754963,Tesco,Terminus Street,Blairgowrie,MKD,318062,745093
+73795969,Hames Place,Cornhill Road,Burghmuir,HAR,309942,723814
+73748749,Rosamunde Pilcher Drive,Station Road,Longforgan,MKD,331359,729813
+73765464,Rosamunde Pilcher Drive,Station Road,Longforgan,CUS,331381,729810
+73742375,Tullybaccart Farm,A923,Kettins,CUS,326372,736010
+73798538,Tayside Crescent,Tayside Crescent,Aberfeldy,CUS,285609,749405
+73728474,Quarterbank,C459,New Fowlis,CUS,291972,722068
+73732374,Greystane Terrace,Greystane Road,Invergowrie,CUS,334785,730564
+73745865,McDiarmid Park,Car Park,Perth,CUS,308986,725069
+73739858,Transport Hub,off C457,Tullibardine,CUS,291970,716211
+73793292,West PUDO,C458,Tullibardine,CUS,291456,714773
+73769468,T in The Park Bus Station,U21,Tullibardine,CUS,293119,715414
+73729386,Ash Grove,VIEWLANDS ROAD WEST,Hillend,MKD,308793,723590
+73729387,Fairhill Crescent,OAKBANK ROAD,Oakbank,MKD,309192,723133
+73729392,Brands Brae,BRAND'S BRAE,Gannochy,CUS,313002,724678
+73729393,Buchan Drive,BUCHAN DRIVE,Viewlands,HAR,309823,723376
+73729394,Glenearn Court,PITTENZIE STREET,Crieff,CUS,286550,721400
+73729395,Clydesdale Court,ORCHIL ROAD,Auchterarder,MKD,292676,712008
+73729396,Scouring Burn,Glasgow Road,Perth,MKD,309727,722646
+73729397,Old Gallows Road,FITTIS ROAD,Western Edge,MKD,308403,723739
+73729398,Ballindean Farm,Inchture Interchange,Inchture,MKD,327534,728496
+73729423,Beechgrove Drive,VIEWLANDS ROAD WEST,Hillend,MKD,308961,723500
+73729426,Ambulance Depot,MUIREND ROAD,Burghmuir,MKD,308856,723702
+73729427,Muirend Road,HILLEND ROAD,Burghmuir,MKD,308817,723682
+73729428,Ochil Nursing Home,ETTRICK DRIVE,Hillend,MKD,308672,723517
+73729429,NOT USED,A85,St Fillans,MKD,268448,724750
+73729432,Dryburgh Crescent,ETTRICK DRIVE,Western Edge,MKD,308534,723449
+73729434,Traquair Gardens,FITTIS ROAD,Western Edge,MKD,308422,723521
+73729436,Ash Grove,CEDAR DRIVE,Oakbank,MKD,308425,723161
+73729437,Dental Surgery,LAMBERKINE DRIVE,Broxden,MKD,308375,723058
+73729438,Dental Surgery,LAMBERKINE DRIVE,Broxden,MKD,308378,723047
+73729439,Broxden House,LAMBERKINE DRIVE,Broxden,MKD,308370,722925
+73729452,Innerleithen Way,LAMBERKINE DRIVE,Broxden,MKD,308505,722887
+73729453,Viewlands Road,FAIRIES ROAD,Oakbank,MKD,309708,723171
+73729454,Juniper Place,ALDER DRIVE,Burghmuir,MKD,308746,723217
+73729456,Lochie Brae,LOCHIE BRAE,Bridgend,MKD,312314,723947
+73729457,Broxden Park+Ride,Park and Ride site,Broxden,MKD,308781,722601
+73729459,Abbotsford Crescent,ETTRICK DRIVE,Hillend,HAR,308310,723337
+73729462,Redstone Crossroads,A94,Saucher,CUS,318931,734239
+73729463,Redstone Crossroads,A94,Saucher,CUS,318924,734240
+73729464,Kinrossie road end,A94,Kinrossie,CUS,318251,732503
+73729465,Kinrossie road end,A94,Kinrossie,CUS,318248,732519
+73729467,Dowally,A9,Dowally,CUS,300079,748015
+73729468,Dowally,A9,Dowally,CUS,300103,747962
+73729469,Moulin Crescent,NEWHOUSE ROAD,Letham,MKD,308886,723924
+73729472,Tweedsmuir Road,TWEEDSMUIR ROAD,Letham,MKD,309080,724383
+73729473,Leny Road,NEWHOUSE ROAD,Letham,MKD,308904,724137
+73729474,Kinmond Drive,NECESSITY BRAE,Oakbank,MKD,309918,722511
+73729475,Kinmond Drive,NECESSITY BRAE,Oakbank,MKD,309923,722509
+73729476,Wester Tarsappie,RHYND ROAD,Rhynd,CUS,312741,720921
+73729478,Wester Tarsappie,RHYND ROAD,Rhynd,CUS,312719,720925
+73729479,Rhynd,Rhynd Road,Perth,MKD,315807,720051
+73729482,Rhynd,Rhynd Road,Rhynd,CUS,315803,720054
+73729483,Rhynd Lane,RHYND ROAD,Rhynd,CUS,312250,720957
+73729484,Rhynd Lane,RHYND ROAD,Rhynd,CUS,312245,720960
+73729485,Grange of Elcho,Rhynd Road,Rhynd,CUS,313641,721052
+73729486,Grange of Elcho,RHYND ROAD,Rhynd,MKD,313639,721053
+73729487,Mains of Kinmonth,Rhynd Road,Rhynd,CUS,316523,718841
+73729492,Mains of Kinmonth,Rhynd Road,Rhynd,CUS,316540,718844
+73729493,Tay Avenue,TAY AVENUE,Dalginross,HAR,277809,721801
+73729494,Mackenzie Drive,MAIN STREET,Almondbank,MKD,306549,725826
+73729495,Mackenzie Drive,MAIN STREET,Almondbank,MKD,306540,725866
+73729496,Rashiehall,A94,Balbeggie,CUS,317169,730607
+73729497,Rashiehall,A94,Balbeggie,CUS,317167,730607
+73729498,Town Hall,ALBERT STREET,Alyth,MKD,324493,748454
+73729523,Post Office,BRIDGE STREET,Comrie,CUS,277346,721963
+73729524,Earn Place,GLEBE ROAD,Comrie,HAR,277652,721779
+73729525,Polinard,Polinard,Comrie,HAR,277792,721056
+73729526,Lennoch Circle,LENNOCH CIRCLE,Comrie,HAR,277618,721081
+73729527,Gowanlea Place,GOWANLEA ROAD,Comrie,HAR,277812,721466
+73729528,The Paddock,BARRACK ROAD,Comrie,CUS,277639,721575
+73729529,Dukes Road,QUEENS ROAD,Comrie,HAR,277523,721718
+73729532,The Ross,The Ross,Comrie,CUS,276747,722013
+73729534,Laggan Park,off A85,Comrie,CUS,277690,722304
+73729535,Charlotte Gate,A93,Perth,MKD,309489,722632
+73729536,Charlotte Gate,A93,Perth,MKD,309429,722626
+73729537,Gardeners Cottage,B846,Kinloch Rannoch,CUS,261746,758967
+73729538,Gardeners Cottage,B846,Kinloch Rannoch,CUS,261748,758973
+73729542,Ardlarich Farm,B846,Kinloch Rannoch,CUS,252859,758129
+73729543,Ardlarich Farm,B846,Kinloch Rannoch,CUS,252858,758142
+73729545,Gaur Cottage,South Rannoch Road,Kinloch Rannoch,CUS,250160,756657
+73729546,Gaur Cottage,South Rannoch Road,Kinloch Rannoch,CUS,250138,756668
+73729547,Rannoch Lodge,B846,Bridge of Gaur,CUS,250620,757517
+73729548,Rannoch Lodge,B846,Bridge of Gaur,CUS,250623,757506
+73729549,Camusericht,B846,Bridge of Gaur,CUS,250269,757122
+73729562,Camusericht,B846,Bridge of Gaur,CUS,250270,757114
+73729563,Eaglesfield,LANGSIDE DRIVE,Comrie,CUS,277636,720930
+73729564,Hilton View,B996,Glenfarg,MKD,313645,709938
+73729565,Hilton View,B996,Glenfarg,MKD,313631,709941
+73729567,Crematorium,A85,Tulloch,MKD,309229,725114
+73729568,Crematorium,A85,Tulloch,MKD,309256,725079
+73729569,Dalweem,Taybridge Road,Aberfeldy,MKD,285265,749223
+73729572,Duntaylor Avenue,DUNTAYLOR AVENUE,Aberfeldy,HAR,285135,748590
+73745632,Muirton,CHURCH ROAD,Auchterarder,MKD,292402,711893
+73728278,Bertha Park,B9993,Inveralmond,MKD,308272,726543
+73757647,Double Dykes,RUTHVENFIELD ROAD,Inveralmond,MKD,308260,725857
+73765494,Fishers,RUTHVENFIELD AVENUE,Inveralmond,MKD,308725,725873
+73798979,Inveralmond Road,RUTHVENFIELD WAY,Inveralmond,MKD,308922,725839
+73784529,Inveralmond Grove,INVERALMOND PLACE,Inveralmond,MKD,309109,725936
+73769486,Inveralmond Close,INVERALMOND ROAD,Inveralmond,MKD,309175,726093
+73796267,Double Dykes,RUTHVENFIELD ROAD,Inveralmond,MKD,308296,725856
+73729574,Ruthvenfield Avenue,RUTHVENFIELD ROAD,Inveralmond,MKD,308588,725983
+73729575,Ruthvenfield Avenue,RUTHVENFIELD ROAD,Inveralmond,MKD,308628,725992
+73732856,Sycamore Ave,Sycamore Avenue,Auchterarder,CUS,294217,712224
+73732857,Eastmill Farm,Abbey Road,Auchterarder,CUS,295566,712820
+73732858,Kirkfield Place,Lundies Walk,Auchterarder,CUS,295014,712713
+73732843,Canmore Place,Canmore Place,Auchterarder,CUS,294884,712587
+73732845,Elcho Green,Elcho Green,Auchterarder,MKD,294636,713373
+73732846,Eagle Avenue,Benton Road,Auchterarder,CUS,295007,713395
+73732847,Southlands road,Southlands Road,Auchterarder,CUS,294261,712486
+73732848,Kincardine Road,Kincardine Road,Auchterarder,CUS,294660,712549
+73732849,Montrose Road,Montrose Road,Auchterarder,MKD,294781,712742
+73732852,Grand Eagles,B8062,Auchterarder,CUS,296372,713680
+73732853,Grampian Avenue,Grampian Avenue,Auchterarder,CUS,292876,712234
+73732854,Strathearn House,A824,Auchterarder,CUS,293153,711657
+73728279,ALDI,Broich Road,Crieff,MKD,286188,721013
+73742583,Parkdale,New School Lane,Auchterarder,MKD,294512,713024
+73745869,Castleton Park,Castleton Park,Auchterarder,HAR,293899,712821
+73769529,Benton Road,Benton Road,Auchterarder,CUS,295299,713434
+73746372,Lochran Farm,B996,Kelty,MKD,313280,697112
+73753946,Lochran Farm,B996,Kelty,MKD,313286,697112
+73728294,Blairfordel Farm,B996,Kelty,MKD,314333,695747
+73747482,Blairfordel Farm,B996,Kelty,MKD,314334,695750
+73747392,Greenacres,B996,Gairney Bank,MKD,313171,697739
+73736382,Greenacres,B996,Gairney Bank,MKD,313175,697740
+73749268,Madoch Centre,Low Carse Road,St Madoes,MKD,319843,721137
+73762592,Madoch Centre,Low Carse Road,St Madoes,MKD,319837,721133
+73729576,Market Square,Home Street,Aberfeldy,MKD,285765,749308
+73729578,Orchard Brae,Kenmore Road,Aberfeldy,MKD,285003,748881
+73729579,Kenmore Street,Kenmore Street,Aberfeldy,MKD,285192,748940
+73729582,Orchard Brae,Kenmore Road,Aberfeldy,MKD,285001,748882
+73729583,Orchard Brae,Kenmore Road,Aberfeldy,MKD,285001,748882
+73752468,Maidenplain Place,Main Road,Aberuthven,MKD,298040,715591
+73729584,Maidenplain Place,Main Road,Aberuthven,MKD,298026,715583
+73729585,Ruthven Towers,Abbey Road,Auchterarder,MKD,295070,712985
+73764294,Auld Mart Road,South Street,Milnathort,MKD,311749,704092
+73728428,Auld Mart Road,Auld Mart Road,Milnathort,MKD,311755,704092
+73729586,Old Edinburgh Road,A912,Bridge of Earn,MKD,313399,717823
+73729587,Scouring Burn,Glasgow Road,Perth,MKD,309728,722635
+73729589,Dunan,B846,Kinloch Rannoch,CUS,247338,757238
+73729592,Broxden Park+Ride,Broxden Avenue,Broxden,MKD,308784,722604

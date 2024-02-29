@@ -1,0 +1,26 @@
+<html>
+<head><title>Perth and Kinross Bus Stops</title></head>
+<body>
+<h1>List of Bus Stops</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>No.</th> 
+      <th>NaptanCode</th> 
+      <th>CommonName</th> 
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in rows %}
+    <tr>
+      <td>{{ row[0] }}</td>
+      <td><a href={{ url_for('details') }}>{{ row[1] }}</td>
+      <td>{{ row[2] }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+
+</table>
+
+</body></html>
